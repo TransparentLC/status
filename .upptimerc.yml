@@ -28,6 +28,7 @@ status-website:
   introTitle: Akarin Server's status page
   introMessage: Real-time monitoring for self-hosted services on Akarin Server, powered by [Upptime](https://github.com/upptime/upptime).
   favicon: https://gcore.jsdelivr.net/gh/TransparentLC/transparentlc.github.io/img/favicon.png
+  themeUrl: theme.css
   robotsText: "User-agent: * \n Disallow: /"
   metaTags:
     - name: robots
