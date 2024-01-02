@@ -43,19 +43,19 @@
     "url": "smtp.akarin.dev",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-server",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 145,
-    "timeDay": 157,
-    "timeWeek": 137,
-    "timeMonth": 144,
-    "timeYear": 145,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 144,
+    "timeDay": 131,
+    "timeWeek": 133,
+    "timeMonth": 142,
+    "timeYear": 144,
     "dailyMinutesDown": {
-      "2024-01-02": 2
+      "2024-01-02": 4
     }
   },
   {
