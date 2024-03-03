@@ -6,7 +6,7 @@ sites:
     url: https://file.akarin.dev/api/v3/site/config
   - name: frp tunnel
     check: tcp-ping
-    url: frp-tunnel.akarin.dev
+    url: $SECRET_URL_FRP
     port: 1919
   - name: Mail server
     check: tcp-ping
