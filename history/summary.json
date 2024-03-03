@@ -26,19 +26,19 @@
     "url": "$SECRET_URL_FRP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "frp-tunnel",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
-    "time": 143,
-    "timeDay": 163,
-    "timeWeek": 151,
-    "timeMonth": 144,
-    "timeYear": 143,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 142,
+    "timeDay": 134,
+    "timeWeek": 145,
+    "timeMonth": 143,
+    "timeYear": 142,
     "dailyMinutesDown": {
-      "2024-03-03": 3
+      "2024-03-03": 11
     }
   },
   {
