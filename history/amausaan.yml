@@ -1,7 +1,7 @@
 url: $SECRET_URL_AMAUSAAN
-status: down
-code: 521
-responseTime: 118
-lastUpdated: 2024-08-22T16:33:06.476Z
+status: up
+code: 400
+responseTime: 190
+lastUpdated: 2024-08-22T18:17:48.144Z
 startTime: 2023-11-02T07:51:44.010Z
 generator: Upptime <https://github.com/upptime/upptime>
