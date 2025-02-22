@@ -1,7 +1,7 @@
 url: $SECRET_URL_FLEUR
-status: down
-code: 403
-responseTime: 161
-lastUpdated: 2025-02-22T03:31:12.405Z
+status: up
+code: 400
+responseTime: 702
+lastUpdated: 2025-02-22T03:41:37.068Z
 startTime: 2023-11-02T07:51:41.217Z
 generator: Upptime <https://github.com/upptime/upptime>
