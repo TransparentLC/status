@@ -1,7 +1,7 @@
 url: $SECRET_URL_FRP
-status: up
-code: 200
-responseTime: 105
-lastUpdated: 2025-02-22T17:35:08.812Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2025-02-22T17:58:39.727Z
 startTime: 2023-11-02T07:51:38.666Z
 generator: Upptime <https://github.com/upptime/upptime>
