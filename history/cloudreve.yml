@@ -1,7 +1,7 @@
 url: https://file.akarin.dev/api/v3/site/config
-status: down
-code: 502
-responseTime: 640
-lastUpdated: 2025-03-05T23:03:09.245Z
+status: up
+code: 200
+responseTime: 595
+lastUpdated: 2025-03-06T10:37:54.502Z
 startTime: 2023-11-02T07:51:35.648Z
 generator: Upptime <https://github.com/upptime/upptime>
