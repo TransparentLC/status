@@ -17,7 +17,7 @@ sites:
     expectedStatusCodes:
       - 400
   - name: Moriya Shrine
-    url: $SECRET_URL_Moriya
+    url: $SECRET_URL_MORIYA
     expectedStatusCodes:
       - 400
 
