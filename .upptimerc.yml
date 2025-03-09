@@ -12,12 +12,12 @@ sites:
     check: tcp-ping
     url: smtp.akarin.dev
     port: 465
-  - name: Fleur de Lapin
-    url: $SECRET_URL_FLEUR
+  - name: Hakurei Shrine
+    url: $SECRET_URL_HAKUREI
     expectedStatusCodes:
       - 400
-  - name: Amausaan
-    url: $SECRET_URL_AMAUSAAN
+  - name: Moriya Shrine
+    url: $SECRET_URL_Moriya
     expectedStatusCodes:
       - 400
 
