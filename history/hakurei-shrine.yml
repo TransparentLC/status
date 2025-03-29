@@ -1,7 +1,7 @@
 url: $SECRET_URL_HAKUREI
-status: down
-code: 502
-responseTime: 471
-lastUpdated: 2025-03-29T10:15:00.322Z
+status: up
+code: 400
+responseTime: 681
+lastUpdated: 2025-03-29T10:35:59.812Z
 startTime: 2025-03-09T04:55:00.536Z
 generator: Upptime <https://github.com/upptime/upptime>
