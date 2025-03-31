@@ -13,7 +13,7 @@
     "time": 667,
     "timeDay": 646,
     "timeWeek": 676,
-    "timeMonth": 506,
+    "timeMonth": 515,
     "timeYear": 697,
     "dailyMinutesDown": {
       "2025-03-09": 17,
@@ -54,7 +54,7 @@
     "time": 142,
     "timeDay": 143,
     "timeWeek": 145,
-    "timeMonth": 138,
+    "timeMonth": 137,
     "timeYear": 142,
     "dailyMinutesDown": {
       "2025-03-04": 28,
@@ -82,7 +82,7 @@
     "time": 139,
     "timeDay": 142,
     "timeWeek": 145,
-    "timeMonth": 138,
+    "timeMonth": 137,
     "timeYear": 140,
     "dailyMinutesDown": {
       "2025-03-04": 27,
@@ -101,18 +101,19 @@
     "url": "$SECRET_URL_HAKUREI",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hakurei-shrine",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
     "time": 578,
-    "timeDay": 633,
-    "timeWeek": 655,
+    "timeDay": 604,
+    "timeWeek": 647,
     "timeMonth": 578,
     "timeYear": 578,
     "dailyMinutesDown": {
+      "2025-03-31": 0,
       "2025-03-29": 21
     }
   },
@@ -121,18 +122,19 @@
     "url": "$SECRET_URL_MORIYA",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "moriya-shrine",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 164,
-    "timeDay": 171,
-    "timeWeek": 192,
-    "timeMonth": 164,
-    "timeYear": 164,
+    "time": 165,
+    "timeDay": 177,
+    "timeWeek": 191,
+    "timeMonth": 165,
+    "timeYear": 165,
     "dailyMinutesDown": {
+      "2025-03-31": 0,
       "2025-03-29": 21
     }
   }
