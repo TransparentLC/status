@@ -3,7 +3,7 @@ repo: status
 
 sites:
   - name: Cloudreve
-    url: https://file.akarin.dev/api/v4/site/config/basic
+    url: https://file.akarin.dev/api/v4/site/ping
   - name: frp tunnel
     check: tcp-ping
     url: $SECRET_URL_FRP
