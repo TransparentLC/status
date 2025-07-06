@@ -1,7 +1,7 @@
-url: https://file.akarin.dev/api/v4/site/config/basic
+url: https://file.akarin.dev/api/v4/site/ping
 status: up
 code: 200
-responseTime: 619
-lastUpdated: 2025-07-06T06:47:22.899Z
+responseTime: 902
+lastUpdated: 2025-07-06T06:54:09.164Z
 startTime: 2023-11-02T07:51:35.648Z
 generator: Upptime <https://github.com/upptime/upptime>
