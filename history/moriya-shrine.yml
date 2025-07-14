@@ -1,7 +1,7 @@
 url: $SECRET_URL_MORIYA
-status: down
-code: 521
-responseTime: 222
-lastUpdated: 2025-07-14T18:39:32.912Z
+status: up
+code: 400
+responseTime: 179
+lastUpdated: 2025-07-14T19:08:10.477Z
 startTime: 2025-03-09T04:55:01.354Z
 generator: Upptime <https://github.com/upptime/upptime>
