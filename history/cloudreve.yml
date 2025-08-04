@@ -1,7 +1,7 @@
 url: https://file.akarin.dev/api/v4/site/ping
-status: down
-code: 521
-responseTime: 411
-lastUpdated: 2025-08-04T12:50:05.096Z
+status: up
+code: 200
+responseTime: 1363
+lastUpdated: 2025-08-04T13:10:21.930Z
 startTime: 2023-11-02T07:51:35.648Z
 generator: Upptime <https://github.com/upptime/upptime>
