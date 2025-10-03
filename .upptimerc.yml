@@ -20,6 +20,9 @@ sites:
     url: $SECRET_URL_MORIYA
     expectedStatusCodes:
       - 400
+  - name: Hath
+    url: $SECRET_URL_HATH
+    __dangerous__disable_verify_host: true
   - name: Crypto Lab
     url: https://crypto-lab.akarin.dev/
   - name: Qsticker Archive
