@@ -24,6 +24,8 @@ sites:
     url: https://crypto-lab.akarin.dev/
   - name: Qsticker Archive
     url: https://qsticker.akarin.dev/
+  - name: dufs file sharing
+    url: https://fuwafuwa.akarin.dev/__dufs__/health
 
 status-website:
   baseUrl: /status
