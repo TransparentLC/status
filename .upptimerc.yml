@@ -20,6 +20,10 @@ sites:
     url: $SECRET_URL_MORIYA
     expectedStatusCodes:
       - 400
+  - name: Crypto Lab
+    url: https://crypto-lab.akarin.dev/
+  - name: Qsticker Archive
+    url: https://qsticker.akarin.dev/
 
 status-website:
   baseUrl: /status
