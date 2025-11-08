@@ -1,7 +1,7 @@
 url: https://crypto-lab.akarin.dev/
-status: up
-code: 200
-responseTime: 880
-lastUpdated: 2025-11-08T21:27:41.577Z
+status: down
+code: 502
+responseTime: 645
+lastUpdated: 2025-11-08T21:39:35.599Z
 startTime: 2025-10-03T08:08:04.807Z
 generator: Upptime <https://github.com/upptime/upptime>
