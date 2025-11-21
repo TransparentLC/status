@@ -1,7 +1,7 @@
 url: $SECRET_URL_HATH
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-11-21T23:52:33.067Z
+status: up
+code: 200
+responseTime: 351
+lastUpdated: 2025-11-21T23:57:34.269Z
 startTime: 2025-10-03T18:25:15.683Z
 generator: Upptime <https://github.com/upptime/upptime>
