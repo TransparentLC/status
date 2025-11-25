@@ -240,9 +240,9 @@
     "url": "$SECRET_URL_HATH",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hath",
-    "status": "up",
+    "status": "down",
     "uptime": "99.01%",
-    "uptimeDay": "95.73%",
+    "uptimeDay": "95.70%",
     "uptimeWeek": "98.43%",
     "uptimeMonth": "99.60%",
     "uptimeYear": "99.01%",
@@ -273,7 +273,7 @@
     "time": 1882,
     "timeDay": 588,
     "timeWeek": 2348,
-    "timeMonth": 2023,
+    "timeMonth": 2026,
     "timeYear": 1882,
     "dailyMinutesDown": {
       "2025-11-25": 76,
@@ -327,7 +327,7 @@
     "time": 1213,
     "timeDay": 1105,
     "timeWeek": 1089,
-    "timeMonth": 1310,
+    "timeMonth": 1313,
     "timeYear": 1213,
     "dailyMinutesDown": {
       "2025-11-25": 76,
@@ -380,7 +380,7 @@
     "time": 793,
     "timeDay": 611,
     "timeWeek": 616,
-    "timeMonth": 764,
+    "timeMonth": 765,
     "timeYear": 793,
     "dailyMinutesDown": {
       "2025-11-25": 76,
