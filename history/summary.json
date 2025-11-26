@@ -240,19 +240,19 @@
     "url": "$SECRET_URL_HATH",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hath",
-    "status": "down",
-    "uptime": "99.00%",
-    "uptimeDay": "97.41%",
-    "uptimeWeek": "98.27%",
-    "uptimeMonth": "99.57%",
-    "uptimeYear": "99.00%",
+    "status": "up",
+    "uptime": "98.98%",
+    "uptimeDay": "96.47%",
+    "uptimeWeek": "98.14%",
+    "uptimeMonth": "99.53%",
+    "uptimeYear": "98.98%",
     "time": 545,
-    "timeDay": 421,
-    "timeWeek": 698,
-    "timeMonth": 583,
+    "timeDay": 429,
+    "timeWeek": 693,
+    "timeMonth": 582,
     "timeYear": 545,
     "dailyMinutesDown": {
-      "2025-11-26": 1,
+      "2025-11-26": 14,
       "2025-11-25": 59,
       "2025-11-24": 59,
       "2025-11-21": 57,
@@ -266,18 +266,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/crypto-lab.akarin.dev.ico",
     "slug": "crypto-lab",
     "status": "up",
-    "uptime": "94.11%",
-    "uptimeDay": "93.88%",
-    "uptimeWeek": "87.50%",
-    "uptimeMonth": "92.06%",
-    "uptimeYear": "94.11%",
+    "uptime": "94.10%",
+    "uptimeDay": "94.69%",
+    "uptimeWeek": "87.62%",
+    "uptimeMonth": "92.09%",
+    "uptimeYear": "94.10%",
     "time": 1874,
     "timeDay": 660,
     "timeWeek": 2277,
     "timeMonth": 2036,
     "timeYear": 1874,
     "dailyMinutesDown": {
-      "2025-11-26": 12,
       "2025-11-25": 76,
       "2025-11-24": 15,
       "2025-11-22": 283,
@@ -311,7 +310,8 @@
       "2025-10-16": 378,
       "2025-10-15": 86,
       "2025-10-14": 235,
-      "2025-10-13": 116
+      "2025-10-13": 116,
+      "2025-10-06": 18
     }
   },
   {
@@ -320,18 +320,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/qsticker.akarin.dev.ico",
     "slug": "qsticker-archive",
     "status": "up",
-    "uptime": "94.33%",
-    "uptimeDay": "93.88%",
-    "uptimeWeek": "86.31%",
-    "uptimeMonth": "91.43%",
-    "uptimeYear": "94.33%",
+    "uptime": "93.93%",
+    "uptimeDay": "94.69%",
+    "uptimeWeek": "86.43%",
+    "uptimeMonth": "91.46%",
+    "uptimeYear": "93.93%",
     "time": 1211,
     "timeDay": 1047,
     "timeWeek": 1104,
     "timeMonth": 1280,
     "timeYear": 1211,
     "dailyMinutesDown": {
-      "2025-11-26": 12,
       "2025-11-25": 76,
       "2025-11-24": 15,
       "2025-11-22": 402,
@@ -363,7 +362,9 @@
       "2025-10-23": 68,
       "2025-10-22": 54,
       "2025-10-17": 136,
-      "2025-10-16": 370
+      "2025-10-16": 370,
+      "2025-10-15": 86,
+      "2025-10-14": 235
     }
   },
   {
@@ -373,9 +374,9 @@
     "slug": "dufs-file-sharing",
     "status": "up",
     "uptime": "94.84%",
-    "uptimeDay": "93.88%",
-    "uptimeWeek": "87.18%",
-    "uptimeMonth": "91.64%",
+    "uptimeDay": "94.68%",
+    "uptimeWeek": "87.30%",
+    "uptimeMonth": "91.67%",
     "uptimeYear": "94.84%",
     "time": 794,
     "timeDay": 691,
@@ -383,7 +384,6 @@
     "timeMonth": 768,
     "timeYear": 794,
     "dailyMinutesDown": {
-      "2025-11-26": 12,
       "2025-11-25": 76,
       "2025-11-24": 15,
       "2025-11-22": 314,
@@ -414,7 +414,7 @@
       "2025-10-25": 21,
       "2025-10-23": 69,
       "2025-10-22": 54,
-      "2025-10-16": 196
+      "2025-10-16": 215
     }
   }
 ]
