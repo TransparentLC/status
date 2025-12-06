@@ -269,19 +269,19 @@
     "url": "https://crypto-lab.akarin.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/crypto-lab.akarin.dev.ico",
     "slug": "crypto-lab",
-    "status": "up",
-    "uptime": "95.11%",
-    "uptimeDay": "97.21%",
+    "status": "down",
+    "uptime": "95.46%",
+    "uptimeDay": "97.17%",
     "uptimeWeek": "99.60%",
     "uptimeMonth": "94.22%",
-    "uptimeYear": "95.11%",
-    "time": 1790,
-    "timeDay": 696,
-    "timeWeek": 713,
-    "timeMonth": 1963,
-    "timeYear": 1790,
+    "uptimeYear": "95.46%",
+    "time": 1788,
+    "timeDay": 701,
+    "timeWeek": 714,
+    "timeMonth": 1959,
+    "timeYear": 1788,
     "dailyMinutesDown": {
-      "2025-12-06": 21,
+      "2025-12-06": 22,
       "2025-12-05": 19,
       "2025-11-28": 20,
       "2025-11-25": 76,
@@ -314,9 +314,7 @@
       "2025-10-23": 68,
       "2025-10-22": 54,
       "2025-10-17": 136,
-      "2025-10-16": 378,
-      "2025-10-15": 86,
-      "2025-10-14": 235
+      "2025-10-16": 378
     }
   },
   {
@@ -324,16 +322,16 @@
     "url": "https://qsticker.akarin.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/qsticker.akarin.dev.ico",
     "slug": "qsticker-archive",
-    "status": "up",
-    "uptime": "95.36%",
-    "uptimeDay": "97.20%",
+    "status": "down",
+    "uptime": "95.57%",
+    "uptimeDay": "97.17%",
     "uptimeWeek": "99.60%",
     "uptimeMonth": "93.75%",
-    "uptimeYear": "95.36%",
+    "uptimeYear": "95.57%",
     "time": 1169,
-    "timeDay": 623,
-    "timeWeek": 653,
-    "timeMonth": 1281,
+    "timeDay": 643,
+    "timeWeek": 658,
+    "timeMonth": 1280,
     "timeYear": 1169,
     "dailyMinutesDown": {
       "2025-12-06": 21,
@@ -369,8 +367,7 @@
       "2025-10-25": 21,
       "2025-10-23": 68,
       "2025-10-22": 54,
-      "2025-10-17": 136,
-      "2025-10-16": 196
+      "2025-10-17": 136
     }
   },
   {
@@ -378,15 +375,15 @@
     "url": "https://fuwafuwa.akarin.dev/__dufs__/health",
     "icon": "https://icons.duckduckgo.com/ip3/fuwafuwa.akarin.dev.ico",
     "slug": "dufs-file-sharing",
-    "status": "up",
-    "uptime": "95.84%",
-    "uptimeDay": "97.20%",
+    "status": "down",
+    "uptime": "95.86%",
+    "uptimeDay": "97.17%",
     "uptimeWeek": "99.60%",
     "uptimeMonth": "93.93%",
-    "uptimeYear": "95.84%",
+    "uptimeYear": "95.86%",
     "time": 782,
-    "timeDay": 609,
-    "timeWeek": 657,
+    "timeDay": 619,
+    "timeWeek": 659,
     "timeMonth": 815,
     "timeYear": 782,
     "dailyMinutesDown": {
@@ -422,7 +419,7 @@
       "2025-10-27": 115,
       "2025-10-25": 21,
       "2025-10-23": 69,
-      "2025-10-22": 20
+      "2025-10-22": 3
     }
   }
 ]
