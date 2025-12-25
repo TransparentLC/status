@@ -269,17 +269,17 @@
     "url": "https://crypto-lab.akarin.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/crypto-lab.akarin.dev.ico",
     "slug": "crypto-lab",
-    "status": "up",
-    "uptime": "95.11%",
-    "uptimeDay": "85.93%",
-    "uptimeWeek": "80.33%",
+    "status": "down",
+    "uptime": "95.14%",
+    "uptimeDay": "85.90%",
+    "uptimeWeek": "80.32%",
     "uptimeMonth": "93.41%",
-    "uptimeYear": "95.11%",
-    "time": 1838,
-    "timeDay": 1989,
-    "timeWeek": 2620,
-    "timeMonth": 1725,
-    "timeYear": 1838,
+    "uptimeYear": "95.14%",
+    "time": 1836,
+    "timeDay": 1910,
+    "timeWeek": 2599,
+    "timeMonth": 1718,
+    "timeYear": 1836,
     "dailyMinutesDown": {
       "2025-12-25": 182,
       "2025-12-24": 77,
@@ -316,7 +316,7 @@
       "2025-11-05": 165,
       "2025-11-04": 59,
       "2025-11-03": 166,
-      "2025-11-02": 98
+      "2025-11-02": 66
     }
   },
   {
@@ -324,17 +324,17 @@
     "url": "https://qsticker.akarin.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/qsticker.akarin.dev.ico",
     "slug": "qsticker-archive",
-    "status": "up",
-    "uptime": "95.47%",
-    "uptimeDay": "85.92%",
+    "status": "down",
+    "uptime": "95.48%",
+    "uptimeDay": "85.89%",
     "uptimeWeek": "80.25%",
-    "uptimeMonth": "94.85%",
-    "uptimeYear": "95.47%",
-    "time": 1168,
-    "timeDay": 651,
-    "timeWeek": 1464,
-    "timeMonth": 1056,
-    "timeYear": 1168,
+    "uptimeMonth": "94.84%",
+    "uptimeYear": "95.48%",
+    "time": 1167,
+    "timeDay": 626,
+    "timeWeek": 1453,
+    "timeMonth": 1052,
+    "timeYear": 1167,
     "dailyMinutesDown": {
       "2025-12-25": 183,
       "2025-12-24": 83,
@@ -370,8 +370,7 @@
       "2025-11-06": 175,
       "2025-11-05": 171,
       "2025-11-04": 86,
-      "2025-11-03": 166,
-      "2025-11-02": 20
+      "2025-11-03": 166
     }
   },
   {
@@ -379,17 +378,17 @@
     "url": "https://fuwafuwa.akarin.dev/__dufs__/health",
     "icon": "https://icons.duckduckgo.com/ip3/fuwafuwa.akarin.dev.ico",
     "slug": "dufs-file-sharing",
-    "status": "up",
-    "uptime": "95.96%",
-    "uptimeDay": "85.91%",
+    "status": "down",
+    "uptime": "95.98%",
+    "uptimeDay": "85.89%",
     "uptimeWeek": "85.29%",
-    "uptimeMonth": "96.02%",
-    "uptimeYear": "95.96%",
-    "time": 819,
-    "timeDay": 657,
-    "timeWeek": 1091,
-    "timeMonth": 883,
-    "timeYear": 819,
+    "uptimeMonth": "96.01%",
+    "uptimeYear": "95.98%",
+    "time": 818,
+    "timeDay": 633,
+    "timeWeek": 1083,
+    "timeMonth": 880,
+    "timeYear": 818,
     "dailyMinutesDown": {
       "2025-12-25": 183,
       "2025-12-24": 83,
@@ -425,8 +424,7 @@
       "2025-11-06": 140,
       "2025-11-05": 177,
       "2025-11-04": 121,
-      "2025-11-03": 166,
-      "2025-11-02": 20
+      "2025-11-03": 166
     }
   }
 ]
