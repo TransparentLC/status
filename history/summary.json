@@ -272,19 +272,19 @@
     "url": "https://crypto-lab.akarin.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/crypto-lab.akarin.dev.ico",
     "slug": "crypto-lab",
-    "status": "up",
-    "uptime": "96.62%",
-    "uptimeDay": "85.49%",
-    "uptimeWeek": "94.34%",
+    "status": "down",
+    "uptime": "96.64%",
+    "uptimeDay": "85.44%",
+    "uptimeWeek": "94.33%",
     "uptimeMonth": "94.95%",
-    "uptimeYear": "96.62%",
-    "time": 1767,
-    "timeDay": 1180,
-    "timeWeek": 1540,
-    "timeMonth": 1221,
-    "timeYear": 1767,
+    "uptimeYear": "96.64%",
+    "time": 1766,
+    "timeDay": 1150,
+    "timeWeek": 1530,
+    "timeMonth": 1222,
+    "timeYear": 1766,
     "dailyMinutesDown": {
-      "2026-02-09": 209,
+      "2026-02-09": 210,
       "2026-02-08": 48,
       "2026-02-07": 69,
       "2026-02-06": 171,
@@ -328,8 +328,7 @@
       "2025-12-24": 77,
       "2025-12-23": 158,
       "2025-12-22": 144,
-      "2025-12-21": 496,
-      "2025-12-20": 22
+      "2025-12-21": 496
     }
   },
   {
@@ -346,7 +345,7 @@
     "time": 1090,
     "timeDay": 537,
     "timeWeek": 1085,
-    "timeMonth": 960,
+    "timeMonth": 962,
     "timeYear": 1090,
     "dailyMinutesDown": {
       "2026-02-09": 179,
@@ -405,18 +404,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/fuwafuwa.akarin.dev.ico",
     "slug": "dufs-file-sharing",
     "status": "up",
-    "uptime": "96.86%",
-    "uptimeDay": "86.57%",
-    "uptimeWeek": "94.72%",
-    "uptimeMonth": "95.02%",
-    "uptimeYear": "96.86%",
+    "uptime": "96.44%",
+    "uptimeDay": "87.53%",
+    "uptimeWeek": "94.85%",
+    "uptimeMonth": "95.05%",
+    "uptimeYear": "96.44%",
     "time": 915,
     "timeDay": 2160,
     "timeWeek": 1078,
-    "timeMonth": 1065,
+    "timeMonth": 1068,
     "timeYear": 915,
     "dailyMinutesDown": {
-      "2026-02-09": 193,
+      "2026-02-09": 179,
       "2026-02-08": 48,
       "2026-02-07": 69,
       "2026-02-06": 170,
@@ -461,7 +460,7 @@
       "2025-12-23": 158,
       "2025-12-22": 131,
       "2025-12-21": 2,
-      "2025-12-20": 22
+      "2025-12-20": 822
     }
   }
 ]
