@@ -125,7 +125,7 @@
     "timeDay": 510,
     "timeWeek": 617,
     "timeMonth": 661,
-    "timeYear": 968,
+    "timeYear": 970,
     "dailyMinutesDown": {
       "2026-02-15": 24,
       "2026-02-04": 16,
@@ -182,7 +182,7 @@
     "timeDay": 117,
     "timeWeek": 256,
     "timeMonth": 239,
-    "timeYear": 454,
+    "timeYear": 455,
     "dailyMinutesDown": {
       "2026-02-19": 20,
       "2026-02-15": 24,
@@ -253,17 +253,17 @@
     "url": "https://crypto-lab.akarin.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/crypto-lab.akarin.dev.ico",
     "slug": "crypto-lab",
-    "status": "up",
-    "uptime": "98.52%",
-    "uptimeDay": "76.15%",
-    "uptimeWeek": "94.12%",
+    "status": "down",
+    "uptime": "98.53%",
+    "uptimeDay": "77.84%",
+    "uptimeWeek": "94.11%",
     "uptimeMonth": "97.22%",
-    "uptimeYear": "98.52%",
-    "time": 1733,
-    "timeDay": 1600,
-    "timeWeek": 1498,
-    "timeMonth": 1359,
-    "timeYear": 1733,
+    "uptimeYear": "98.53%",
+    "time": 1732,
+    "timeDay": 1633,
+    "timeWeek": 1542,
+    "timeMonth": 1352,
+    "timeYear": 1732,
     "dailyMinutesDown": {
       "2026-03-29": 144,
       "2026-03-28": 201,
@@ -304,8 +304,7 @@
       "2026-01-28": 70,
       "2026-01-27": 34,
       "2026-01-25": 16,
-      "2026-01-24": 50,
-      "2026-01-23": 15
+      "2026-01-24": 50
     }
   },
   {
@@ -313,19 +312,19 @@
     "url": "https://qsticker.akarin.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/qsticker.akarin.dev.ico",
     "slug": "qsticker-archive",
-    "status": "up",
-    "uptime": "98.17%",
-    "uptimeDay": "76.13%",
+    "status": "down",
+    "uptime": "98.20%",
+    "uptimeDay": "77.82%",
     "uptimeWeek": "88.10%",
     "uptimeMonth": "95.91%",
-    "uptimeYear": "98.17%",
+    "uptimeYear": "98.20%",
     "time": 1051,
-    "timeDay": 608,
-    "timeWeek": 759,
-    "timeMonth": 731,
+    "timeDay": 594,
+    "timeWeek": 766,
+    "timeMonth": 728,
     "timeYear": 1051,
     "dailyMinutesDown": {
-      "2026-03-29": 144,
+      "2026-03-29": 145,
       "2026-03-28": 202,
       "2026-03-27": 134,
       "2026-03-25": 57,
@@ -367,8 +366,7 @@
       "2026-01-24": 50,
       "2026-01-23": 15,
       "2026-01-22": 257,
-      "2026-01-21": 23,
-      "2026-01-20": 51
+      "2026-01-21": 23
     }
   },
   {
@@ -376,19 +374,19 @@
     "url": "https://fuwafuwa.akarin.dev/__dufs__/health",
     "icon": "https://icons.duckduckgo.com/ip3/fuwafuwa.akarin.dev.ico",
     "slug": "dufs-file-sharing",
-    "status": "up",
-    "uptime": "98.33%",
-    "uptimeDay": "77.96%",
-    "uptimeWeek": "94.22%",
+    "status": "down",
+    "uptime": "98.34%",
+    "uptimeDay": "79.65%",
+    "uptimeWeek": "94.21%",
     "uptimeMonth": "97.40%",
-    "uptimeYear": "98.33%",
+    "uptimeYear": "98.34%",
     "time": 897,
-    "timeDay": 605,
-    "timeWeek": 660,
-    "timeMonth": 790,
+    "timeDay": 590,
+    "timeWeek": 659,
+    "timeMonth": 785,
     "timeYear": 897,
     "dailyMinutesDown": {
-      "2026-03-29": 144,
+      "2026-03-29": 145,
       "2026-03-28": 176,
       "2026-03-27": 134,
       "2026-03-25": 57,
@@ -432,7 +430,7 @@
       "2026-01-20": 51,
       "2026-01-19": 79,
       "2026-01-15": 151,
-      "2026-01-14": 112
+      "2026-01-14": 86
     }
   }
 ]
