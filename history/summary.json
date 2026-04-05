@@ -252,17 +252,17 @@
     "url": "https://crypto-lab.akarin.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/crypto-lab.akarin.dev.ico",
     "slug": "crypto-lab",
-    "status": "up",
-    "uptime": "98.60%",
-    "uptimeDay": "90.25%",
+    "status": "down",
+    "uptime": "98.61%",
+    "uptimeDay": "90.22%",
     "uptimeWeek": "86.59%",
     "uptimeMonth": "94.31%",
-    "uptimeYear": "98.60%",
-    "time": 1780,
-    "timeDay": 2525,
-    "timeWeek": 2516,
-    "timeMonth": 1848,
-    "timeYear": 1780,
+    "uptimeYear": "98.61%",
+    "time": 1779,
+    "timeDay": 2439,
+    "timeWeek": 2540,
+    "timeMonth": 1843,
+    "timeYear": 1779,
     "dailyMinutesDown": {
       "2026-04-05": 18,
       "2026-04-04": 234,
@@ -295,8 +295,7 @@
       "2026-02-14": 536,
       "2026-02-13": 234,
       "2026-02-12": 200,
-      "2026-02-11": 149,
-      "2026-02-10": 19
+      "2026-02-11": 149
     }
   },
   {
@@ -304,15 +303,15 @@
     "url": "https://qsticker.akarin.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/qsticker.akarin.dev.ico",
     "slug": "qsticker-archive",
-    "status": "up",
-    "uptime": "98.35%",
-    "uptimeDay": "90.24%",
-    "uptimeWeek": "85.89%",
+    "status": "down",
+    "uptime": "98.36%",
+    "uptimeDay": "90.21%",
+    "uptimeWeek": "85.88%",
     "uptimeMonth": "92.89%",
-    "uptimeYear": "98.35%",
+    "uptimeYear": "98.36%",
     "time": 1054,
-    "timeDay": 649,
-    "timeWeek": 1096,
+    "timeDay": 662,
+    "timeWeek": 1107,
     "timeMonth": 890,
     "timeYear": 1054,
     "dailyMinutesDown": {
@@ -348,7 +347,7 @@
       "2026-02-13": 234,
       "2026-02-12": 200,
       "2026-02-11": 120,
-      "2026-02-10": 77
+      "2026-02-10": 60
     }
   },
   {
@@ -364,7 +363,7 @@
     "uptimeYear": "98.57%",
     "time": 909,
     "timeDay": 643,
-    "timeWeek": 1091,
+    "timeWeek": 1104,
     "timeMonth": 933,
     "timeYear": 909,
     "dailyMinutesDown": {
