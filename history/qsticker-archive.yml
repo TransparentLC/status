@@ -1,7 +1,7 @@
 url: https://qsticker.akarin.dev/
-status: up
-code: 200
-responseTime: 11773
-lastUpdated: 2026-04-10T23:11:00.785Z
+status: down
+code: 502
+responseTime: 866
+lastUpdated: 2026-04-10T23:36:54.611Z
 startTime: 2025-10-03T08:08:06.090Z
 generator: Upptime <https://github.com/upptime/upptime>
