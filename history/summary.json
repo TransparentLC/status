@@ -248,17 +248,17 @@
     "url": "https://crypto-lab.akarin.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/crypto-lab.akarin.dev.ico",
     "slug": "crypto-lab",
-    "status": "up",
-    "uptime": "98.67%",
-    "uptimeDay": "76.07%",
-    "uptimeWeek": "85.75%",
-    "uptimeMonth": "91.50%",
-    "uptimeYear": "98.67%",
-    "time": 1792,
-    "timeDay": 2353,
-    "timeWeek": 1749,
+    "status": "down",
+    "uptime": "98.68%",
+    "uptimeDay": "76.04%",
+    "uptimeWeek": "85.74%",
+    "uptimeMonth": "91.56%",
+    "uptimeYear": "98.68%",
+    "time": 1791,
+    "timeDay": 2182,
+    "timeWeek": 1731,
     "timeMonth": 1917,
-    "timeYear": 1792,
+    "timeYear": 1791,
     "dailyMinutesDown": {
       "2026-04-15": 328,
       "2026-04-14": 245,
@@ -278,7 +278,7 @@
       "2026-03-31": 173,
       "2026-03-30": 120,
       "2026-03-29": 249,
-      "2026-03-28": 199
+      "2026-03-28": 174
     }
   },
   {
@@ -286,19 +286,19 @@
     "url": "https://qsticker.akarin.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/qsticker.akarin.dev.ico",
     "slug": "qsticker-archive",
-    "status": "up",
-    "uptime": "98.42%",
-    "uptimeDay": "76.07%",
-    "uptimeWeek": "79.75%",
-    "uptimeMonth": "89.90%",
-    "uptimeYear": "98.42%",
+    "status": "down",
+    "uptime": "98.43%",
+    "uptimeDay": "76.03%",
+    "uptimeWeek": "79.74%",
+    "uptimeMonth": "89.97%",
+    "uptimeYear": "98.43%",
     "time": 1052,
-    "timeDay": 847,
-    "timeWeek": 1072,
+    "timeDay": 792,
+    "timeWeek": 1061,
     "timeMonth": 964,
     "timeYear": 1052,
     "dailyMinutesDown": {
-      "2026-04-15": 328,
+      "2026-04-15": 329,
       "2026-04-14": 245,
       "2026-04-13": 545,
       "2026-04-12": 402,
@@ -317,7 +317,7 @@
       "2026-03-30": 183,
       "2026-03-29": 250,
       "2026-03-28": 202,
-      "2026-03-27": 76
+      "2026-03-27": 45
     }
   },
   {
@@ -325,19 +325,19 @@
     "url": "https://fuwafuwa.akarin.dev/__dufs__/health",
     "icon": "https://icons.duckduckgo.com/ip3/fuwafuwa.akarin.dev.ico",
     "slug": "dufs-file-sharing",
-    "status": "up",
+    "status": "down",
     "uptime": "98.63%",
-    "uptimeDay": "76.06%",
-    "uptimeWeek": "85.89%",
-    "uptimeMonth": "91.22%",
+    "uptimeDay": "76.03%",
+    "uptimeWeek": "85.88%",
+    "uptimeMonth": "91.26%",
     "uptimeYear": "98.63%",
-    "time": 907,
-    "timeDay": 597,
-    "timeWeek": 714,
+    "time": 906,
+    "timeDay": 561,
+    "timeWeek": 707,
     "timeMonth": 880,
-    "timeYear": 907,
+    "timeYear": 906,
     "dailyMinutesDown": {
-      "2026-04-15": 328,
+      "2026-04-15": 329,
       "2026-04-14": 246,
       "2026-04-13": 177,
       "2026-04-12": 209,
@@ -356,7 +356,7 @@
       "2026-03-30": 163,
       "2026-03-29": 250,
       "2026-03-28": 176,
-      "2026-03-27": 134
+      "2026-03-27": 114
     }
   }
 ]
