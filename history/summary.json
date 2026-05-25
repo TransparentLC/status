@@ -250,11 +250,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/crypto-lab.akarin.dev.ico",
     "slug": "crypto-lab",
     "status": "down",
-    "uptime": "98.85%",
+    "uptime": "98.84%",
     "uptimeDay": "90.70%",
     "uptimeWeek": "87.97%",
-    "uptimeMonth": "96.30%",
-    "uptimeYear": "98.85%",
+    "uptimeMonth": "96.20%",
+    "uptimeYear": "98.84%",
     "time": 1765,
     "timeDay": 2813,
     "timeWeek": 2340,
@@ -285,7 +285,7 @@
       "2026-05-22": 166,
       "2026-05-23": 146,
       "2026-05-24": 138,
-      "2026-05-25": 1
+      "2026-05-25": 43
     }
   },
   {
@@ -294,11 +294,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/qsticker.akarin.dev.ico",
     "slug": "qsticker-archive",
     "status": "down",
-    "uptime": "98.57%",
+    "uptime": "98.56%",
     "uptimeDay": "92.41%",
     "uptimeWeek": "89.17%",
-    "uptimeMonth": "95.86%",
-    "uptimeYear": "98.57%",
+    "uptimeMonth": "95.76%",
+    "uptimeYear": "98.56%",
     "time": 1047,
     "timeDay": 503,
     "timeWeek": 682,
@@ -331,7 +331,7 @@
       "2026-05-22": 139,
       "2026-05-23": 127,
       "2026-05-24": 113,
-      "2026-05-25": 1
+      "2026-05-25": 43
     }
   },
   {
@@ -340,11 +340,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/fuwafuwa.akarin.dev.ico",
     "slug": "dufs-file-sharing",
     "status": "down",
-    "uptime": "98.82%",
+    "uptime": "98.80%",
     "uptimeDay": "92.45%",
     "uptimeWeek": "89.25%",
-    "uptimeMonth": "96.53%",
-    "uptimeYear": "98.82%",
+    "uptimeMonth": "96.43%",
+    "uptimeYear": "98.80%",
     "time": 900,
     "timeDay": 453,
     "timeWeek": 682,
@@ -375,7 +375,7 @@
       "2026-05-22": 132,
       "2026-05-23": 155,
       "2026-05-24": 112,
-      "2026-05-25": 1
+      "2026-05-25": 43
     }
   }
 ]
