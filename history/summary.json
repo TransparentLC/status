@@ -250,11 +250,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/crypto-lab.akarin.dev.ico",
     "slug": "crypto-lab",
     "status": "down",
-    "uptime": "98.86%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "94.83%",
-    "uptimeMonth": "96.27%",
-    "uptimeYear": "98.86%",
+    "uptime": "98.84%",
+    "uptimeDay": "94.39%",
+    "uptimeWeek": "94.04%",
+    "uptimeMonth": "96.09%",
+    "uptimeYear": "98.84%",
     "time": 1762,
     "timeDay": 766,
     "timeWeek": 1973,
@@ -285,7 +285,7 @@
       "2026-05-23": 146,
       "2026-05-24": 138,
       "2026-05-25": 70,
-      "2026-05-29": 1
+      "2026-05-29": 81
     }
   },
   {
@@ -294,11 +294,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/qsticker.akarin.dev.ico",
     "slug": "qsticker-archive",
     "status": "down",
-    "uptime": "98.27%",
-    "uptimeDay": "68.86%",
-    "uptimeWeek": "83.25%",
-    "uptimeMonth": "93.06%",
-    "uptimeYear": "98.27%",
+    "uptime": "98.24%",
+    "uptimeDay": "63.32%",
+    "uptimeWeek": "82.46%",
+    "uptimeMonth": "92.88%",
+    "uptimeYear": "98.24%",
     "time": 1046,
     "timeDay": 813,
     "timeWeek": 607,
@@ -335,7 +335,7 @@
       "2026-05-27": 167,
       "2026-05-26": 625,
       "2026-05-28": 448,
-      "2026-05-29": 1
+      "2026-05-29": 81
     }
   },
   {
@@ -343,17 +343,17 @@
     "url": "https://fuwafuwa.akarin.dev/__dufs__/health",
     "icon": "https://icons.duckduckgo.com/ip3/fuwafuwa.akarin.dev.ico",
     "slug": "dufs-file-sharing",
-    "status": "down",
-    "uptime": "98.83%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "95.34%",
-    "uptimeMonth": "96.56%",
-    "uptimeYear": "98.83%",
-    "time": 900,
-    "timeDay": 500,
-    "timeWeek": 763,
-    "timeMonth": 734,
-    "timeYear": 900,
+    "status": "up",
+    "uptime": "98.81%",
+    "uptimeDay": "94.46%",
+    "uptimeWeek": "94.55%",
+    "uptimeMonth": "96.38%",
+    "uptimeYear": "98.81%",
+    "time": 903,
+    "timeDay": 3100,
+    "timeWeek": 1033,
+    "timeMonth": 818,
+    "timeYear": 903,
     "dailyMinutesDown": {
       "2026-04-12": 151,
       "2026-04-13": 177,
@@ -380,7 +380,7 @@
       "2026-05-23": 155,
       "2026-05-24": 112,
       "2026-05-25": 69,
-      "2026-05-29": 1
+      "2026-05-29": 80
     }
   }
 ]
