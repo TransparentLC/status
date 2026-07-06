@@ -235,7 +235,7 @@
     "slug": "crypto-lab",
     "status": "up",
     "uptime": "98.80%",
-    "uptimeDay": "79.43%",
+    "uptimeDay": "82.10%",
     "uptimeWeek": "96.64%",
     "uptimeMonth": "97.09%",
     "uptimeYear": "98.80%",
@@ -283,11 +283,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/qsticker.akarin.dev.ico",
     "slug": "qsticker-archive",
     "status": "down",
-    "uptime": "96.41%",
+    "uptime": "96.40%",
     "uptimeDay": "70.33%",
-    "uptimeWeek": "95.34%",
+    "uptimeWeek": "94.96%",
     "uptimeMonth": "86.29%",
-    "uptimeYear": "96.41%",
+    "uptimeYear": "96.40%",
     "time": 1049,
     "timeDay": 595,
     "timeWeek": 642,
@@ -337,7 +337,7 @@
       "2026-06-28": 75,
       "2026-07-01": 39,
       "2026-07-05": 424,
-      "2026-07-06": 6
+      "2026-07-06": 45
     }
   },
   {
@@ -347,7 +347,7 @@
     "slug": "dufs-file-sharing",
     "status": "up",
     "uptime": "98.98%",
-    "uptimeDay": "79.50%",
+    "uptimeDay": "82.16%",
     "uptimeWeek": "96.65%",
     "uptimeMonth": "99.01%",
     "uptimeYear": "98.98%",
