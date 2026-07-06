@@ -14,7 +14,7 @@
     "timeDay": 495,
     "timeWeek": 589,
     "timeMonth": 620,
-    "timeYear": 1164,
+    "timeYear": 1165,
     "dailyMinutesDown": {
       "2025-07-08": 117,
       "2025-07-09": 186,
@@ -119,7 +119,7 @@
     "timeDay": 486,
     "timeWeek": 557,
     "timeMonth": 571,
-    "timeYear": 942,
+    "timeYear": 943,
     "dailyMinutesDown": {
       "2025-07-08": 66,
       "2025-07-07": 300,
@@ -169,7 +169,7 @@
     "timeDay": 399,
     "timeWeek": 438,
     "timeMonth": 472,
-    "timeYear": 396,
+    "timeYear": 397,
     "dailyMinutesDown": {
       "2025-07-08": 66,
       "2025-07-07": 299,
@@ -282,16 +282,16 @@
     "url": "https://qsticker.akarin.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/qsticker.akarin.dev.ico",
     "slug": "qsticker-archive",
-    "status": "down",
-    "uptime": "96.37%",
-    "uptimeDay": "66.16%",
-    "uptimeWeek": "93.80%",
+    "status": "up",
+    "uptime": "96.21%",
+    "uptimeDay": "24.05%",
+    "uptimeWeek": "86.95%",
     "uptimeMonth": "86.29%",
-    "uptimeYear": "96.37%",
+    "uptimeYear": "96.21%",
     "time": 1049,
-    "timeDay": 568,
-    "timeWeek": 642,
-    "timeMonth": 815,
+    "timeDay": 567,
+    "timeWeek": 646,
+    "timeMonth": 814,
     "timeYear": 1049,
     "dailyMinutesDown": {
       "2026-04-16": 105,
@@ -337,7 +337,7 @@
       "2026-06-28": 75,
       "2026-07-01": 39,
       "2026-07-05": 424,
-      "2026-07-06": 162
+      "2026-07-06": 852
     }
   },
   {
