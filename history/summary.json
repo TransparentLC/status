@@ -228,13 +228,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/crypto-lab.akarin.dev.ico",
     "slug": "crypto-lab",
     "status": "down",
-    "uptime": "98.56%",
-    "uptimeDay": "71.54%",
-    "uptimeWeek": "81.10%",
-    "uptimeMonth": "93.43%",
-    "uptimeYear": "98.56%",
+    "uptime": "98.55%",
+    "uptimeDay": "70.43%",
+    "uptimeWeek": "80.72%",
+    "uptimeMonth": "93.34%",
+    "uptimeYear": "98.55%",
     "time": 1747,
-    "timeDay": 1289,
+    "timeDay": 1469,
     "timeWeek": 1282,
     "timeMonth": 1220,
     "timeYear": 1747,
@@ -270,7 +270,7 @@
       "2026-07-07": 412,
       "2026-07-08": 432,
       "2026-07-09": 408,
-      "2026-07-10": 1
+      "2026-07-10": 40
     }
   },
   {
@@ -279,13 +279,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/qsticker.akarin.dev.ico",
     "slug": "qsticker-archive",
     "status": "down",
-    "uptime": "95.97%",
-    "uptimeDay": "71.59%",
-    "uptimeWeek": "71.65%",
-    "uptimeMonth": "88.69%",
-    "uptimeYear": "95.97%",
+    "uptime": "95.96%",
+    "uptimeDay": "70.47%",
+    "uptimeWeek": "71.26%",
+    "uptimeMonth": "88.60%",
+    "uptimeYear": "95.96%",
     "time": 1055,
-    "timeDay": 792,
+    "timeDay": 899,
     "timeWeek": 1166,
     "timeMonth": 1033,
     "timeYear": 1055,
@@ -335,7 +335,7 @@
       "2026-07-07": 413,
       "2026-07-08": 444,
       "2026-07-09": 408,
-      "2026-07-10": 1
+      "2026-07-10": 39
     }
   },
   {
@@ -344,13 +344,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/fuwafuwa.akarin.dev.ico",
     "slug": "dufs-file-sharing",
     "status": "down",
-    "uptime": "98.77%",
-    "uptimeDay": "71.65%",
-    "uptimeWeek": "81.46%",
-    "uptimeMonth": "95.42%",
-    "uptimeYear": "98.77%",
+    "uptime": "98.76%",
+    "uptimeDay": "70.51%",
+    "uptimeWeek": "81.07%",
+    "uptimeMonth": "95.33%",
+    "uptimeYear": "98.76%",
     "time": 898,
-    "timeDay": 388,
+    "timeDay": 437,
     "timeWeek": 599,
     "timeMonth": 675,
     "timeYear": 898,
@@ -386,7 +386,7 @@
       "2026-07-07": 388,
       "2026-07-08": 407,
       "2026-07-09": 408,
-      "2026-07-10": 1
+      "2026-07-10": 39
     }
   }
 ]
