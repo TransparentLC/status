@@ -231,8 +231,8 @@
     "status": "down",
     "uptime": "98.32%",
     "uptimeDay": "73.79%",
-    "uptimeWeek": "71.27%",
-    "uptimeMonth": "90.48%",
+    "uptimeWeek": "71.00%",
+    "uptimeMonth": "90.42%",
     "uptimeYear": "98.32%",
     "time": 1746,
     "timeDay": 1063,
@@ -273,7 +273,7 @@
       "2026-07-10": 380,
       "2026-07-11": 522,
       "2026-07-12": 378,
-      "2026-07-13": 11
+      "2026-07-13": 38
     }
   },
   {
@@ -282,11 +282,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/qsticker.akarin.dev.ico",
     "slug": "qsticker-archive",
     "status": "down",
-    "uptime": "95.76%",
+    "uptime": "95.75%",
     "uptimeDay": "72.35%",
     "uptimeWeek": "62.41%",
-    "uptimeMonth": "85.57%",
-    "uptimeYear": "95.76%",
+    "uptimeMonth": "85.50%",
+    "uptimeYear": "95.75%",
     "time": 1052,
     "timeDay": 1103,
     "timeWeek": 1156,
@@ -340,7 +340,7 @@
       "2026-07-10": 502,
       "2026-07-11": 456,
       "2026-07-12": 397,
-      "2026-07-13": 11
+      "2026-07-13": 38
     }
   },
   {
@@ -350,7 +350,7 @@
     "slug": "dufs-file-sharing",
     "status": "up",
     "uptime": "98.58%",
-    "uptimeDay": "77.12%",
+    "uptimeDay": "79.01%",
     "uptimeWeek": "73.11%",
     "uptimeMonth": "92.82%",
     "uptimeYear": "98.58%",
