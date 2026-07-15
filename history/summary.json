@@ -12,7 +12,7 @@
     "uptimeYear": "98.64%",
     "time": 1091,
     "timeDay": 883,
-    "timeWeek": 611,
+    "timeWeek": 594,
     "timeMonth": 605,
     "timeYear": 1155,
     "dailyMinutesDown": {
@@ -67,7 +67,7 @@
     "uptimeYear": "99.92%",
     "time": 145,
     "timeDay": 146,
-    "timeWeek": 151,
+    "timeWeek": 150,
     "timeMonth": 140,
     "timeYear": 147,
     "dailyMinutesDown": {
@@ -88,7 +88,7 @@
     "uptimeYear": "99.91%",
     "time": 147,
     "timeDay": 148,
-    "timeWeek": 151,
+    "timeWeek": 150,
     "timeMonth": 141,
     "timeYear": 148,
     "dailyMinutesDown": {
@@ -113,7 +113,7 @@
     "uptimeYear": "99.43%",
     "time": 916,
     "timeDay": 581,
-    "timeWeek": 634,
+    "timeWeek": 630,
     "timeMonth": 578,
     "timeYear": 940,
     "dailyMinutesDown": {
@@ -160,7 +160,7 @@
     "uptimeYear": "99.56%",
     "time": 433,
     "timeDay": 756,
-    "timeWeek": 545,
+    "timeWeek": 544,
     "timeMonth": 465,
     "timeYear": 406,
     "dailyMinutesDown": {
@@ -203,7 +203,7 @@
     "uptimeYear": "99.76%",
     "time": 510,
     "timeDay": 457,
-    "timeWeek": 468,
+    "timeWeek": 464,
     "timeMonth": 435,
     "timeYear": 510,
     "dailyMinutesDown": {
@@ -223,19 +223,18 @@
     "url": "https://crypto-lab.akarin.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/crypto-lab.akarin.dev.ico",
     "slug": "crypto-lab",
-    "status": "up",
-    "uptime": "98.14%",
-    "uptimeDay": "71.92%",
-    "uptimeWeek": "70.89%",
+    "status": "down",
+    "uptime": "98.15%",
+    "uptimeDay": "71.86%",
+    "uptimeWeek": "70.95%",
     "uptimeMonth": "87.74%",
-    "uptimeYear": "98.14%",
-    "time": 1740,
-    "timeDay": 973,
-    "timeWeek": 1365,
-    "timeMonth": 1315,
-    "timeYear": 1740,
+    "uptimeYear": "98.15%",
+    "time": 1739,
+    "timeDay": 958,
+    "timeWeek": 1376,
+    "timeMonth": 1311,
+    "timeYear": 1739,
     "dailyMinutesDown": {
-      "2026-04-19": 41,
       "2026-04-20": 136,
       "2026-04-22": 100,
       "2026-04-23": 52,
@@ -269,7 +268,7 @@
       "2026-07-12": 378,
       "2026-07-13": 409,
       "2026-07-14": 397,
-      "2026-07-15": 405
+      "2026-07-15": 406
     }
   },
   {
@@ -277,19 +276,19 @@
     "url": "https://qsticker.akarin.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/qsticker.akarin.dev.ico",
     "slug": "qsticker-archive",
-    "status": "up",
-    "uptime": "95.59%",
-    "uptimeDay": "72.53%",
-    "uptimeWeek": "69.45%",
+    "status": "down",
+    "uptime": "95.60%",
+    "uptimeDay": "72.48%",
+    "uptimeWeek": "69.51%",
     "uptimeMonth": "82.61%",
-    "uptimeYear": "95.59%",
+    "uptimeYear": "95.60%",
     "time": 1048,
-    "timeDay": 949,
+    "timeDay": 890,
     "timeWeek": 775,
-    "timeMonth": 945,
+    "timeMonth": 939,
     "timeYear": 1048,
     "dailyMinutesDown": {
-      "2026-04-25": 43,
+      "2026-04-25": 16,
       "2026-04-26": 42,
       "2026-05-03": 22,
       "2026-05-13": 75,
@@ -333,7 +332,7 @@
       "2026-07-12": 397,
       "2026-07-13": 444,
       "2026-07-14": 466,
-      "2026-07-15": 396
+      "2026-07-15": 397
     }
   },
   {
@@ -341,19 +340,19 @@
     "url": "https://fuwafuwa.akarin.dev/__dufs__/health",
     "icon": "https://icons.duckduckgo.com/ip3/fuwafuwa.akarin.dev.ico",
     "slug": "dufs-file-sharing",
-    "status": "up",
+    "status": "down",
     "uptime": "98.44%",
-    "uptimeDay": "74.31%",
-    "uptimeWeek": "73.34%",
+    "uptimeDay": "74.26%",
+    "uptimeWeek": "73.40%",
     "uptimeMonth": "90.24%",
     "uptimeYear": "98.44%",
-    "time": 893,
-    "timeDay": 1049,
-    "timeWeek": 628,
-    "timeMonth": 665,
-    "timeYear": 893,
+    "time": 892,
+    "timeDay": 990,
+    "timeWeek": 627,
+    "timeMonth": 660,
+    "timeYear": 892,
     "dailyMinutesDown": {
-      "2026-04-19": 76,
+      "2026-04-19": 59,
       "2026-04-20": 172,
       "2026-04-22": 100,
       "2026-04-23": 18,
@@ -386,7 +385,7 @@
       "2026-07-12": 330,
       "2026-07-13": 375,
       "2026-07-14": 395,
-      "2026-07-15": 370
+      "2026-07-15": 371
     }
   }
 ]
