@@ -223,19 +223,19 @@
     "url": "https://crypto-lab.akarin.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/crypto-lab.akarin.dev.ico",
     "slug": "crypto-lab",
-    "status": "up",
-    "uptime": "98.14%",
-    "uptimeDay": "70.75%",
-    "uptimeWeek": "70.70%",
+    "status": "down",
+    "uptime": "98.15%",
+    "uptimeDay": "72.05%",
+    "uptimeWeek": "70.89%",
     "uptimeMonth": "87.78%",
-    "uptimeYear": "98.14%",
-    "time": 1741,
-    "timeDay": 1090,
-    "timeWeek": 1398,
-    "timeMonth": 1330,
-    "timeYear": 1741,
+    "uptimeYear": "98.15%",
+    "time": 1740,
+    "timeDay": 1016,
+    "timeWeek": 1375,
+    "timeMonth": 1320,
+    "timeYear": 1740,
     "dailyMinutesDown": {
-      "2026-04-19": 58,
+      "2026-04-19": 41,
       "2026-04-20": 136,
       "2026-04-22": 100,
       "2026-04-23": 52,
@@ -269,7 +269,7 @@
       "2026-07-12": 378,
       "2026-07-13": 409,
       "2026-07-14": 397,
-      "2026-07-15": 387
+      "2026-07-15": 388
     }
   },
   {
@@ -281,7 +281,7 @@
     "uptime": "95.60%",
     "uptimeDay": "72.66%",
     "uptimeWeek": "69.45%",
-    "uptimeMonth": "82.70%",
+    "uptimeMonth": "82.65%",
     "uptimeYear": "95.60%",
     "time": 1049,
     "timeDay": 955,
@@ -333,7 +333,7 @@
       "2026-07-12": 397,
       "2026-07-13": 444,
       "2026-07-14": 466,
-      "2026-07-15": 360
+      "2026-07-15": 379
     }
   },
   {
@@ -342,11 +342,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/fuwafuwa.akarin.dev.ico",
     "slug": "dufs-file-sharing",
     "status": "down",
-    "uptime": "98.45%",
+    "uptime": "98.44%",
     "uptimeDay": "74.43%",
     "uptimeWeek": "73.34%",
-    "uptimeMonth": "90.32%",
-    "uptimeYear": "98.45%",
+    "uptimeMonth": "90.28%",
+    "uptimeYear": "98.44%",
     "time": 893,
     "timeDay": 1052,
     "timeWeek": 625,
@@ -386,7 +386,7 @@
       "2026-07-12": 330,
       "2026-07-13": 375,
       "2026-07-14": 395,
-      "2026-07-15": 334
+      "2026-07-15": 353
     }
   }
 ]
