@@ -16,7 +16,6 @@
     "timeMonth": 606,
     "timeYear": 1155,
     "dailyMinutesDown": {
-      "2025-07-16": 160,
       "2025-07-19": 33,
       "2025-07-20": 86,
       "2025-07-24": 50,
@@ -117,7 +116,6 @@
     "timeMonth": 576,
     "timeYear": 940,
     "dailyMinutesDown": {
-      "2025-07-16": 124,
       "2025-07-19": 29,
       "2025-07-24": 47,
       "2025-07-27": 56,
@@ -164,7 +162,6 @@
     "timeMonth": 460,
     "timeYear": 406,
     "dailyMinutesDown": {
-      "2025-07-16": 118,
       "2025-07-19": 26,
       "2025-07-24": 43,
       "2025-07-27": 53,
@@ -224,14 +221,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/crypto-lab.akarin.dev.ico",
     "slug": "crypto-lab",
     "status": "down",
-    "uptime": "98.15%",
-    "uptimeDay": "70.43%",
-    "uptimeWeek": "70.95%",
-    "uptimeMonth": "87.69%",
-    "uptimeYear": "98.15%",
+    "uptime": "98.14%",
+    "uptimeDay": "68.93%",
+    "uptimeWeek": "70.81%",
+    "uptimeMonth": "87.64%",
+    "uptimeYear": "98.14%",
     "time": 1739,
     "timeDay": 958,
-    "timeWeek": 1376,
+    "timeWeek": 1385,
     "timeMonth": 1314,
     "timeYear": 1739,
     "dailyMinutesDown": {
@@ -268,7 +265,8 @@
       "2026-07-12": 378,
       "2026-07-13": 409,
       "2026-07-14": 397,
-      "2026-07-15": 426
+      "2026-07-15": 440,
+      "2026-07-16": 8
     }
   },
   {
@@ -276,19 +274,18 @@
     "url": "https://qsticker.akarin.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/qsticker.akarin.dev.ico",
     "slug": "qsticker-archive",
-    "status": "up",
-    "uptime": "95.59%",
-    "uptimeDay": "71.12%",
-    "uptimeWeek": "69.36%",
+    "status": "down",
+    "uptime": "95.60%",
+    "uptimeDay": "71.08%",
+    "uptimeWeek": "69.35%",
     "uptimeMonth": "82.57%",
-    "uptimeYear": "95.59%",
+    "uptimeYear": "95.60%",
     "time": 1048,
-    "timeDay": 921,
-    "timeWeek": 787,
-    "timeMonth": 943,
+    "timeDay": 872,
+    "timeWeek": 776,
+    "timeMonth": 936,
     "timeYear": 1048,
     "dailyMinutesDown": {
-      "2026-04-25": 16,
       "2026-04-26": 42,
       "2026-05-03": 22,
       "2026-05-13": 75,
@@ -332,7 +329,8 @@
       "2026-07-12": 397,
       "2026-07-13": 444,
       "2026-07-14": 466,
-      "2026-07-15": 416
+      "2026-07-15": 416,
+      "2026-07-16": 1
     }
   },
   {
@@ -341,11 +339,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/fuwafuwa.akarin.dev.ico",
     "slug": "dufs-file-sharing",
     "status": "down",
-    "uptime": "98.44%",
-    "uptimeDay": "72.84%",
-    "uptimeWeek": "73.24%",
-    "uptimeMonth": "90.19%",
-    "uptimeYear": "98.44%",
+    "uptime": "98.43%",
+    "uptimeDay": "71.34%",
+    "uptimeWeek": "73.02%",
+    "uptimeMonth": "90.14%",
+    "uptimeYear": "98.43%",
     "time": 892,
     "timeDay": 990,
     "timeWeek": 625,
@@ -385,7 +383,8 @@
       "2026-07-12": 330,
       "2026-07-13": 375,
       "2026-07-14": 395,
-      "2026-07-15": 391
+      "2026-07-15": 404,
+      "2026-07-16": 9
     }
   }
 ]
