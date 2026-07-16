@@ -222,13 +222,13 @@
     "slug": "crypto-lab",
     "status": "down",
     "uptime": "98.14%",
-    "uptimeDay": "68.93%",
-    "uptimeWeek": "70.81%",
-    "uptimeMonth": "87.64%",
+    "uptimeDay": "67.09%",
+    "uptimeWeek": "70.69%",
+    "uptimeMonth": "87.58%",
     "uptimeYear": "98.14%",
     "time": 1739,
     "timeDay": 958,
-    "timeWeek": 1385,
+    "timeWeek": 1409,
     "timeMonth": 1314,
     "timeYear": 1739,
     "dailyMinutesDown": {
@@ -266,7 +266,7 @@
       "2026-07-13": 409,
       "2026-07-14": 397,
       "2026-07-15": 440,
-      "2026-07-16": 8
+      "2026-07-16": 35
     }
   },
   {
@@ -275,14 +275,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/qsticker.akarin.dev.ico",
     "slug": "qsticker-archive",
     "status": "down",
-    "uptime": "95.60%",
-    "uptimeDay": "71.08%",
-    "uptimeWeek": "69.35%",
-    "uptimeMonth": "82.57%",
-    "uptimeYear": "95.60%",
+    "uptime": "95.59%",
+    "uptimeDay": "69.25%",
+    "uptimeWeek": "69.24%",
+    "uptimeMonth": "82.51%",
+    "uptimeYear": "95.59%",
     "time": 1048,
     "timeDay": 872,
-    "timeWeek": 776,
+    "timeWeek": 788,
     "timeMonth": 936,
     "timeYear": 1048,
     "dailyMinutesDown": {
@@ -330,7 +330,7 @@
       "2026-07-13": 444,
       "2026-07-14": 466,
       "2026-07-15": 416,
-      "2026-07-16": 1
+      "2026-07-16": 27
     }
   },
   {
@@ -339,14 +339,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/fuwafuwa.akarin.dev.ico",
     "slug": "dufs-file-sharing",
     "status": "down",
-    "uptime": "98.43%",
-    "uptimeDay": "71.34%",
-    "uptimeWeek": "73.02%",
-    "uptimeMonth": "90.14%",
-    "uptimeYear": "98.43%",
+    "uptime": "98.42%",
+    "uptimeDay": "69.51%",
+    "uptimeWeek": "72.91%",
+    "uptimeMonth": "90.08%",
+    "uptimeYear": "98.42%",
     "time": 892,
     "timeDay": 990,
-    "timeWeek": 625,
+    "timeWeek": 635,
     "timeMonth": 658,
     "timeYear": 892,
     "dailyMinutesDown": {
@@ -384,7 +384,7 @@
       "2026-07-13": 375,
       "2026-07-14": 395,
       "2026-07-15": 404,
-      "2026-07-16": 9
+      "2026-07-16": 35
     }
   }
 ]
