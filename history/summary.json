@@ -220,16 +220,16 @@
     "url": "https://crypto-lab.akarin.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/crypto-lab.akarin.dev.ico",
     "slug": "crypto-lab",
-    "status": "down",
-    "uptime": "98.14%",
-    "uptimeDay": "72.88%",
-    "uptimeWeek": "70.77%",
-    "uptimeMonth": "87.38%",
-    "uptimeYear": "98.14%",
+    "status": "up",
+    "uptime": "98.13%",
+    "uptimeDay": "72.95%",
+    "uptimeWeek": "70.78%",
+    "uptimeMonth": "87.32%",
+    "uptimeYear": "98.13%",
     "time": 1738,
-    "timeDay": 1287,
-    "timeWeek": 1410,
-    "timeMonth": 1306,
+    "timeDay": 1241,
+    "timeWeek": 1399,
+    "timeMonth": 1302,
     "timeYear": 1738,
     "dailyMinutesDown": {
       "2026-04-20": 57,
@@ -266,7 +266,7 @@
       "2026-07-13": 409,
       "2026-07-14": 397,
       "2026-07-15": 440,
-      "2026-07-16": 124
+      "2026-07-16": 149
     }
   },
   {
@@ -274,16 +274,16 @@
     "url": "https://qsticker.akarin.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/qsticker.akarin.dev.ico",
     "slug": "qsticker-archive",
-    "status": "down",
-    "uptime": "95.60%",
-    "uptimeDay": "75.86%",
-    "uptimeWeek": "69.43%",
-    "uptimeMonth": "82.33%",
-    "uptimeYear": "95.60%",
+    "status": "up",
+    "uptime": "95.59%",
+    "uptimeDay": "75.36%",
+    "uptimeWeek": "69.44%",
+    "uptimeMonth": "82.27%",
+    "uptimeYear": "95.59%",
     "time": 1047,
-    "timeDay": 670,
-    "timeWeek": 747,
-    "timeMonth": 928,
+    "timeDay": 563,
+    "timeWeek": 748,
+    "timeMonth": 927,
     "timeYear": 1047,
     "dailyMinutesDown": {
       "2026-05-03": 22,
@@ -329,7 +329,7 @@
       "2026-07-13": 444,
       "2026-07-14": 466,
       "2026-07-15": 416,
-      "2026-07-16": 104
+      "2026-07-16": 129
     }
   },
   {
@@ -339,12 +339,12 @@
     "slug": "dufs-file-sharing",
     "status": "down",
     "uptime": "98.42%",
-    "uptimeDay": "78.13%",
+    "uptimeDay": "77.56%",
     "uptimeWeek": "73.39%",
-    "uptimeMonth": "89.98%",
+    "uptimeMonth": "89.92%",
     "uptimeYear": "98.42%",
     "time": 892,
-    "timeDay": 411,
+    "timeDay": 373,
     "timeWeek": 636,
     "timeMonth": 654,
     "timeYear": 892,
@@ -383,7 +383,7 @@
       "2026-07-13": 375,
       "2026-07-14": 395,
       "2026-07-15": 404,
-      "2026-07-16": 83
+      "2026-07-16": 109
     }
   }
 ]
