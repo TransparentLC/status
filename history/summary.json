@@ -218,11 +218,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/crypto-lab.akarin.dev.ico",
     "slug": "crypto-lab",
     "status": "down",
-    "uptime": "98.09%",
-    "uptimeDay": "74.24%",
+    "uptime": "98.08%",
+    "uptimeDay": "72.58%",
     "uptimeWeek": "74.52%",
-    "uptimeMonth": "85.47%",
-    "uptimeYear": "98.09%",
+    "uptimeMonth": "85.42%",
+    "uptimeYear": "98.08%",
     "time": 1732,
     "timeDay": 1215,
     "timeWeek": 1262,
@@ -258,7 +258,7 @@
       "2026-07-16": 265,
       "2026-07-17": 323,
       "2026-07-18": 370,
-      "2026-07-19": 1
+      "2026-07-19": 25
     }
   },
   {
@@ -267,11 +267,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/qsticker.akarin.dev.ico",
     "slug": "qsticker-archive",
     "status": "down",
-    "uptime": "95.58%",
+    "uptime": "95.57%",
     "uptimeDay": "57.57%",
     "uptimeWeek": "71.30%",
-    "uptimeMonth": "79.87%",
-    "uptimeYear": "95.58%",
+    "uptimeMonth": "79.81%",
+    "uptimeYear": "95.57%",
     "time": 1045,
     "timeDay": 594,
     "timeWeek": 845,
@@ -317,7 +317,7 @@
       "2026-07-16": 269,
       "2026-07-17": 292,
       "2026-07-18": 624,
-      "2026-07-19": 1
+      "2026-07-19": 25
     }
   },
   {
@@ -326,11 +326,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/fuwafuwa.akarin.dev.ico",
     "slug": "dufs-file-sharing",
     "status": "down",
-    "uptime": "98.34%",
-    "uptimeDay": "76.03%",
+    "uptime": "98.33%",
+    "uptimeDay": "74.36%",
     "uptimeWeek": "76.01%",
-    "uptimeMonth": "88.05%",
-    "uptimeYear": "98.34%",
+    "uptimeMonth": "87.99%",
+    "uptimeYear": "98.33%",
     "time": 890,
     "timeDay": 477,
     "timeWeek": 706,
@@ -368,7 +368,7 @@
       "2026-07-16": 277,
       "2026-07-17": 306,
       "2026-07-18": 344,
-      "2026-07-19": 1
+      "2026-07-19": 25
     }
   }
 ]
