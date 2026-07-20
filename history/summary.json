@@ -6,7 +6,7 @@
     "slug": "cloudreve",
     "status": "up",
     "uptime": "98.95%",
-    "uptimeDay": "87.92%",
+    "uptimeDay": "89.49%",
     "uptimeWeek": "95.23%",
     "uptimeMonth": "98.85%",
     "uptimeYear": "98.61%",
@@ -219,11 +219,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/crypto-lab.akarin.dev.ico",
     "slug": "crypto-lab",
     "status": "down",
-    "uptime": "98.11%",
+    "uptime": "98.10%",
     "uptimeDay": "87.63%",
     "uptimeWeek": "75.53%",
-    "uptimeMonth": "84.04%",
-    "uptimeYear": "98.11%",
+    "uptimeMonth": "83.99%",
+    "uptimeYear": "98.10%",
     "time": 1724,
     "timeDay": 579,
     "timeWeek": 1171,
@@ -256,7 +256,7 @@
       "2026-07-17": 323,
       "2026-07-18": 370,
       "2026-07-19": 530,
-      "2026-07-20": 95
+      "2026-07-20": 117
     }
   },
   {
@@ -264,19 +264,19 @@
     "url": "https://qsticker.akarin.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/qsticker.akarin.dev.ico",
     "slug": "qsticker-archive",
-    "status": "up",
-    "uptime": "95.58%",
-    "uptimeDay": "77.75%",
-    "uptimeWeek": "71.53%",
-    "uptimeMonth": "78.14%",
-    "uptimeYear": "95.58%",
-    "time": 1040,
-    "timeDay": 597,
-    "timeWeek": 743,
-    "timeMonth": 879,
-    "timeYear": 1040,
+    "status": "down",
+    "uptime": "95.59%",
+    "uptimeDay": "79.27%",
+    "uptimeWeek": "71.75%",
+    "uptimeMonth": "78.13%",
+    "uptimeYear": "95.59%",
+    "time": 1039,
+    "timeDay": 546,
+    "timeWeek": 735,
+    "timeMonth": 875,
+    "timeYear": 1039,
     "dailyMinutesDown": {
-      "2026-05-23": 104,
+      "2026-05-23": 63,
       "2026-05-24": 113,
       "2026-05-25": 69,
       "2026-05-27": 167,
@@ -313,7 +313,7 @@
       "2026-07-17": 292,
       "2026-07-18": 624,
       "2026-07-19": 504,
-      "2026-07-20": 256
+      "2026-07-20": 257
     }
   },
   {
@@ -321,19 +321,19 @@
     "url": "https://fuwafuwa.akarin.dev/__dufs__/health",
     "icon": "https://icons.duckduckgo.com/ip3/fuwafuwa.akarin.dev.ico",
     "slug": "dufs-file-sharing",
-    "status": "up",
-    "uptime": "98.29%",
-    "uptimeDay": "81.45%",
-    "uptimeWeek": "75.44%",
+    "status": "down",
+    "uptime": "98.31%",
+    "uptimeDay": "82.97%",
+    "uptimeWeek": "75.65%",
     "uptimeMonth": "86.44%",
-    "uptimeYear": "98.29%",
-    "time": 888,
-    "timeDay": 931,
-    "timeWeek": 753,
-    "timeMonth": 669,
-    "timeYear": 888,
+    "uptimeYear": "98.31%",
+    "time": 887,
+    "timeDay": 862,
+    "timeWeek": 744,
+    "timeMonth": 666,
+    "timeYear": 887,
     "dailyMinutesDown": {
-      "2026-05-18": 86,
+      "2026-05-18": 21,
       "2026-05-19": 70,
       "2026-05-20": 252,
       "2026-05-21": 206,
@@ -361,7 +361,7 @@
       "2026-07-17": 306,
       "2026-07-18": 344,
       "2026-07-19": 501,
-      "2026-07-20": 204
+      "2026-07-20": 205
     }
   }
 ]
