@@ -6,7 +6,7 @@
     "slug": "cloudreve",
     "status": "up",
     "uptime": "98.95%",
-    "uptimeDay": "94.27%",
+    "uptimeDay": "96.51%",
     "uptimeWeek": "95.23%",
     "uptimeMonth": "98.85%",
     "uptimeYear": "98.61%",
@@ -219,11 +219,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/crypto-lab.akarin.dev.ico",
     "slug": "crypto-lab",
     "status": "down",
-    "uptime": "98.12%",
-    "uptimeDay": "90.25%",
+    "uptime": "98.11%",
+    "uptimeDay": "88.00%",
     "uptimeWeek": "75.57%",
-    "uptimeMonth": "83.94%",
-    "uptimeYear": "98.12%",
+    "uptimeMonth": "83.87%",
+    "uptimeYear": "98.11%",
     "time": 1725,
     "timeDay": 1014,
     "timeWeek": 1218,
@@ -257,7 +257,7 @@
       "2026-07-18": 370,
       "2026-07-19": 530,
       "2026-07-20": 139,
-      "2026-07-21": 1
+      "2026-07-21": 33
     }
   },
   {
@@ -266,11 +266,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/qsticker.akarin.dev.ico",
     "slug": "qsticker-archive",
     "status": "down",
-    "uptime": "95.60%",
+    "uptime": "95.59%",
     "uptimeDay": "80.91%",
     "uptimeWeek": "71.81%",
-    "uptimeMonth": "78.08%",
-    "uptimeYear": "95.60%",
+    "uptimeMonth": "78.01%",
+    "uptimeYear": "95.59%",
     "time": 1039,
     "timeDay": 553,
     "timeWeek": 731,
@@ -315,7 +315,7 @@
       "2026-07-18": 624,
       "2026-07-19": 504,
       "2026-07-20": 279,
-      "2026-07-21": 1
+      "2026-07-21": 33
     }
   },
   {
@@ -324,11 +324,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/fuwafuwa.akarin.dev.ico",
     "slug": "dufs-file-sharing",
     "status": "down",
-    "uptime": "98.31%",
-    "uptimeDay": "84.36%",
+    "uptime": "98.30%",
+    "uptimeDay": "82.12%",
     "uptimeWeek": "75.70%",
-    "uptimeMonth": "86.39%",
-    "uptimeYear": "98.31%",
+    "uptimeMonth": "86.31%",
+    "uptimeYear": "98.30%",
     "time": 889,
     "timeDay": 828,
     "timeWeek": 789,
@@ -363,7 +363,7 @@
       "2026-07-18": 344,
       "2026-07-19": 501,
       "2026-07-20": 226,
-      "2026-07-21": 1
+      "2026-07-21": 33
     }
   }
 ]
