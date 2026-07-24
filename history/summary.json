@@ -217,11 +217,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/crypto-lab.akarin.dev.ico",
     "slug": "crypto-lab",
     "status": "down",
-    "uptime": "98.06%",
-    "uptimeDay": "78.00%",
+    "uptime": "98.05%",
+    "uptimeDay": "76.25%",
     "uptimeWeek": "79.60%",
     "uptimeMonth": "82.64%",
-    "uptimeYear": "98.06%",
+    "uptimeYear": "98.05%",
     "time": 1721,
     "timeDay": 549,
     "timeWeek": 1360,
@@ -255,7 +255,7 @@
       "2026-07-21": 288,
       "2026-07-22": 239,
       "2026-07-23": 154,
-      "2026-07-24": 224
+      "2026-07-24": 249
     }
   },
   {
@@ -264,13 +264,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/qsticker.akarin.dev.ico",
     "slug": "qsticker-archive",
     "status": "down",
-    "uptime": "97.56%",
-    "uptimeDay": "79.00%",
+    "uptime": "97.55%",
+    "uptimeDay": "77.97%",
     "uptimeWeek": "76.53%",
     "uptimeMonth": "79.40%",
-    "uptimeYear": "97.56%",
+    "uptimeYear": "97.55%",
     "time": 1038,
-    "timeDay": 947,
+    "timeDay": 566,
     "timeWeek": 749,
     "timeMonth": 898,
     "timeYear": 1038,
@@ -301,7 +301,7 @@
       "2026-07-21": 266,
       "2026-07-22": 239,
       "2026-07-23": 162,
-      "2026-07-24": 216
+      "2026-07-24": 241
     }
   },
   {
@@ -309,16 +309,16 @@
     "url": "https://fuwafuwa.akarin.dev/__dufs__/health",
     "icon": "https://icons.duckduckgo.com/ip3/fuwafuwa.akarin.dev.ico",
     "slug": "dufs-file-sharing",
-    "status": "down",
-    "uptime": "98.31%",
-    "uptimeDay": "80.93%",
-    "uptimeWeek": "80.48%",
-    "uptimeMonth": "84.55%",
-    "uptimeYear": "98.31%",
+    "status": "up",
+    "uptime": "98.30%",
+    "uptimeDay": "79.22%",
+    "uptimeWeek": "80.49%",
+    "uptimeMonth": "84.49%",
+    "uptimeYear": "98.30%",
     "time": 883,
-    "timeDay": 416,
-    "timeWeek": 598,
-    "timeMonth": 648,
+    "timeDay": 461,
+    "timeWeek": 601,
+    "timeMonth": 649,
     "timeYear": 883,
     "dailyMinutesDown": {
       "2026-05-23": 103,
@@ -348,7 +348,7 @@
       "2026-07-21": 234,
       "2026-07-22": 239,
       "2026-07-23": 145,
-      "2026-07-24": 192
+      "2026-07-24": 216
     }
   }
 ]
