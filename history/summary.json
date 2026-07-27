@@ -213,19 +213,19 @@
     "url": "https://crypto-lab.akarin.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/crypto-lab.akarin.dev.ico",
     "slug": "crypto-lab",
-    "status": "up",
+    "status": "down",
     "uptime": "98.26%",
-    "uptimeDay": "87.90%",
+    "uptimeDay": "87.85%",
     "uptimeWeek": "85.11%",
-    "uptimeMonth": "82.97%",
+    "uptimeMonth": "83.02%",
     "uptimeYear": "98.26%",
     "time": 1710,
-    "timeDay": 612,
-    "timeWeek": 1092,
-    "timeMonth": 1273,
+    "timeDay": 549,
+    "timeWeek": 1074,
+    "timeMonth": 1268,
     "timeYear": 1710,
     "dailyMinutesDown": {
-      "2026-07-05": 194,
+      "2026-07-05": 169,
       "2026-07-06": 357,
       "2026-07-07": 412,
       "2026-07-08": 432,
@@ -247,7 +247,7 @@
       "2026-07-24": 300,
       "2026-07-25": 166,
       "2026-07-26": 205,
-      "2026-07-27": 149
+      "2026-07-27": 150
     }
   },
   {
@@ -257,9 +257,9 @@
     "slug": "qsticker-archive",
     "status": "down",
     "uptime": "97.97%",
-    "uptimeDay": "91.22%",
-    "uptimeWeek": "86.34%",
-    "uptimeMonth": "80.15%",
+    "uptimeDay": "90.79%",
+    "uptimeWeek": "86.27%",
+    "uptimeMonth": "80.13%",
     "uptimeYear": "97.97%",
     "time": 1033,
     "timeDay": 483,
@@ -289,7 +289,7 @@
       "2026-07-24": 292,
       "2026-07-25": 143,
       "2026-07-26": 176,
-      "2026-07-27": 101
+      "2026-07-27": 107
     }
   },
   {
@@ -298,11 +298,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/fuwafuwa.akarin.dev.ico",
     "slug": "dufs-file-sharing",
     "status": "down",
-    "uptime": "98.33%",
-    "uptimeDay": "89.11%",
-    "uptimeWeek": "86.60%",
-    "uptimeMonth": "83.62%",
-    "uptimeYear": "98.33%",
+    "uptime": "98.32%",
+    "uptimeDay": "88.68%",
+    "uptimeWeek": "86.54%",
+    "uptimeMonth": "83.61%",
+    "uptimeYear": "98.32%",
     "time": 878,
     "timeDay": 399,
     "timeWeek": 518,
@@ -331,7 +331,7 @@
       "2026-07-24": 263,
       "2026-07-25": 166,
       "2026-07-26": 175,
-      "2026-07-27": 132
+      "2026-07-27": 138
     }
   }
 ]
