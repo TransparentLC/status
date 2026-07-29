@@ -214,13 +214,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/crypto-lab.akarin.dev.ico",
     "slug": "crypto-lab",
     "status": "down",
-    "uptime": "98.28%",
-    "uptimeDay": "88.04%",
+    "uptime": "98.27%",
+    "uptimeDay": "87.43%",
     "uptimeWeek": "86.08%",
-    "uptimeMonth": "83.11%",
-    "uptimeYear": "98.28%",
+    "uptimeMonth": "83.04%",
+    "uptimeYear": "98.27%",
     "time": 1705,
-    "timeDay": 468,
+    "timeDay": 515,
     "timeWeek": 812,
     "timeMonth": 1229,
     "timeYear": 1705,
@@ -248,7 +248,7 @@
       "2026-07-26": 205,
       "2026-07-27": 171,
       "2026-07-28": 172,
-      "2026-07-29": 1
+      "2026-07-29": 31
     }
   },
   {
@@ -257,13 +257,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/qsticker.akarin.dev.ico",
     "slug": "qsticker-archive",
     "status": "down",
-    "uptime": "98.25%",
-    "uptimeDay": "88.10%",
+    "uptime": "98.24%",
+    "uptimeDay": "87.48%",
     "uptimeWeek": "87.04%",
-    "uptimeMonth": "82.78%",
-    "uptimeYear": "98.25%",
+    "uptimeMonth": "82.71%",
+    "uptimeYear": "98.24%",
     "time": 1033,
-    "timeDay": 1034,
+    "timeDay": 1152,
     "timeWeek": 838,
     "timeMonth": 853,
     "timeYear": 1033,
@@ -291,7 +291,7 @@
       "2026-07-26": 176,
       "2026-07-27": 129,
       "2026-07-28": 171,
-      "2026-07-29": 1
+      "2026-07-29": 31
     }
   },
   {
@@ -300,13 +300,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/fuwafuwa.akarin.dev.ico",
     "slug": "dufs-file-sharing",
     "status": "down",
-    "uptime": "98.35%",
-    "uptimeDay": "85.42%",
+    "uptime": "98.34%",
+    "uptimeDay": "84.79%",
     "uptimeWeek": "86.61%",
-    "uptimeMonth": "83.76%",
-    "uptimeYear": "98.35%",
+    "uptimeMonth": "83.69%",
+    "uptimeYear": "98.34%",
     "time": 876,
-    "timeDay": 405,
+    "timeDay": 444,
     "timeWeek": 459,
     "timeMonth": 616,
     "timeYear": 876,
@@ -334,7 +334,7 @@
       "2026-07-26": 175,
       "2026-07-27": 159,
       "2026-07-28": 210,
-      "2026-07-29": 1
+      "2026-07-29": 31
     }
   }
 ]
