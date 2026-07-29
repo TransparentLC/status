@@ -184,7 +184,7 @@
     "url": "$SECRET_URL_HATH",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hath",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
     "uptimeDay": "91.66%",
     "uptimeWeek": "98.81%",
