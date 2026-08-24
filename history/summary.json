@@ -179,16 +179,16 @@
     "url": "https://crypto-lab.akarin.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/crypto-lab.akarin.dev.ico",
     "slug": "crypto-lab",
-    "status": "up",
+    "status": "down",
     "uptime": "98.49%",
-    "uptimeDay": "72.82%",
-    "uptimeWeek": "88.99%",
-    "uptimeMonth": "94.06%",
+    "uptimeDay": "73.71%",
+    "uptimeWeek": "89.12%",
+    "uptimeMonth": "94.11%",
     "uptimeYear": "98.49%",
     "time": 1700,
-    "timeDay": 1201,
-    "timeWeek": 1250,
-    "timeMonth": 1231,
+    "timeDay": 1147,
+    "timeWeek": 1219,
+    "timeMonth": 1223,
     "timeYear": 1700,
     "dailyMinutesDown": {
       "2026-07-11": 338,
@@ -217,7 +217,7 @@
       "2026-08-18": 25,
       "2026-08-20": 665,
       "2026-08-23": 184,
-      "2026-08-24": 237
+      "2026-08-24": 224
     }
   },
   {
@@ -225,20 +225,20 @@
     "url": "https://qsticker.akarin.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/qsticker.akarin.dev.ico",
     "slug": "qsticker-archive",
-    "status": "up",
-    "uptime": "98.42%",
-    "uptimeDay": "75.95%",
-    "uptimeWeek": "89.97%",
-    "uptimeMonth": "94.21%",
-    "uptimeYear": "98.42%",
-    "time": 1031,
-    "timeDay": 573,
-    "timeWeek": 650,
-    "timeMonth": 846,
-    "timeYear": 1031,
+    "status": "down",
+    "uptime": "98.48%",
+    "uptimeDay": "75.89%",
+    "uptimeWeek": "89.96%",
+    "uptimeMonth": "94.23%",
+    "uptimeYear": "98.48%",
+    "time": 1030,
+    "timeDay": 546,
+    "timeWeek": 633,
+    "timeMonth": 839,
+    "timeYear": 1030,
     "dailyMinutesDown": {
-      "2026-07-11": 314,
       "2026-07-12": 397,
+      "2026-07-11": 9,
       "2026-07-13": 444,
       "2026-07-14": 466,
       "2026-07-15": 416,
@@ -264,7 +264,7 @@
       "2026-08-12": 34,
       "2026-08-20": 665,
       "2026-08-23": 155,
-      "2026-08-24": 192
+      "2026-08-24": 193
     }
   },
   {
@@ -272,19 +272,19 @@
     "url": "https://fuwafuwa.akarin.dev/__dufs__/health",
     "icon": "https://icons.duckduckgo.com/ip3/fuwafuwa.akarin.dev.ico",
     "slug": "dufs-file-sharing",
-    "status": "up",
-    "uptime": "98.45%",
-    "uptimeDay": "76.28%",
-    "uptimeWeek": "90.02%",
-    "uptimeMonth": "94.29%",
-    "uptimeYear": "98.45%",
+    "status": "down",
+    "uptime": "98.47%",
+    "uptimeDay": "76.24%",
+    "uptimeWeek": "90.01%",
+    "uptimeMonth": "94.31%",
+    "uptimeYear": "98.47%",
     "time": 871,
-    "timeDay": 566,
-    "timeWeek": 628,
-    "timeMonth": 601,
+    "timeDay": 541,
+    "timeWeek": 611,
+    "timeMonth": 595,
     "timeYear": 871,
     "dailyMinutesDown": {
-      "2026-07-10": 344,
+      "2026-07-10": 256,
       "2026-07-11": 454,
       "2026-07-12": 330,
       "2026-07-13": 375,
@@ -310,7 +310,7 @@
       "2026-08-12": 34,
       "2026-08-20": 665,
       "2026-08-23": 150,
-      "2026-08-24": 192
+      "2026-08-24": 193
     }
   }
 ]
