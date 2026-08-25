@@ -181,13 +181,13 @@
     "slug": "crypto-lab",
     "status": "down",
     "uptime": "98.66%",
-    "uptimeDay": "78.97%",
-    "uptimeWeek": "86.06%",
-    "uptimeMonth": "93.90%",
+    "uptimeDay": "78.50%",
+    "uptimeWeek": "85.91%",
+    "uptimeMonth": "93.87%",
     "uptimeYear": "98.66%",
     "time": 1692,
-    "timeDay": 942,
-    "timeWeek": 1122,
+    "timeDay": 981,
+    "timeWeek": 1118,
     "timeMonth": 1180,
     "timeYear": 1692,
     "dailyMinutesDown": {
@@ -215,7 +215,7 @@
       "2026-08-20": 665,
       "2026-08-23": 184,
       "2026-08-24": 384,
-      "2026-08-25": 174
+      "2026-08-25": 188
     }
   },
   {
@@ -225,13 +225,13 @@
     "slug": "qsticker-archive",
     "status": "down",
     "uptime": "98.64%",
-    "uptimeDay": "79.09%",
-    "uptimeWeek": "86.67%",
-    "uptimeMonth": "93.98%",
+    "uptimeDay": "78.61%",
+    "uptimeWeek": "86.53%",
+    "uptimeMonth": "93.94%",
     "uptimeYear": "98.64%",
     "time": 1032,
-    "timeDay": 1249,
-    "timeWeek": 884,
+    "timeDay": 1306,
+    "timeWeek": 883,
     "timeMonth": 944,
     "timeYear": 1032,
     "dailyMinutesDown": {
@@ -260,7 +260,7 @@
       "2026-08-20": 665,
       "2026-08-23": 155,
       "2026-08-24": 351,
-      "2026-08-25": 173
+      "2026-08-25": 187
     }
   },
   {
@@ -268,17 +268,17 @@
     "url": "https://fuwafuwa.akarin.dev/__dufs__/health",
     "icon": "https://icons.duckduckgo.com/ip3/fuwafuwa.akarin.dev.ico",
     "slug": "dufs-file-sharing",
-    "status": "down",
+    "status": "up",
     "uptime": "98.61%",
-    "uptimeDay": "78.94%",
-    "uptimeWeek": "86.70%",
-    "uptimeMonth": "94.09%",
+    "uptimeDay": "78.48%",
+    "uptimeWeek": "86.56%",
+    "uptimeMonth": "94.05%",
     "uptimeYear": "98.61%",
-    "time": 869,
-    "timeDay": 734,
-    "timeWeek": 654,
-    "timeMonth": 631,
-    "timeYear": 869,
+    "time": 872,
+    "timeDay": 1023,
+    "timeWeek": 744,
+    "timeMonth": 678,
+    "timeYear": 872,
     "dailyMinutesDown": {
       "2026-07-12": 55,
       "2026-07-13": 375,
@@ -305,7 +305,7 @@
       "2026-08-20": 665,
       "2026-08-23": 150,
       "2026-08-24": 351,
-      "2026-08-25": 175
+      "2026-08-25": 188
     }
   }
 ]
