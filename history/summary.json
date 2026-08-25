@@ -179,16 +179,16 @@
     "url": "https://crypto-lab.akarin.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/crypto-lab.akarin.dev.ico",
     "slug": "crypto-lab",
-    "status": "up",
-    "uptime": "98.60%",
-    "uptimeDay": "79.32%",
-    "uptimeWeek": "86.42%",
-    "uptimeMonth": "93.92%",
-    "uptimeYear": "98.60%",
+    "status": "down",
+    "uptime": "98.61%",
+    "uptimeDay": "80.09%",
+    "uptimeWeek": "86.53%",
+    "uptimeMonth": "93.98%",
+    "uptimeYear": "98.61%",
     "time": 1694,
-    "timeDay": 893,
-    "timeWeek": 1161,
-    "timeMonth": 1193,
+    "timeDay": 931,
+    "timeWeek": 1156,
+    "timeMonth": 1201,
     "timeYear": 1694,
     "dailyMinutesDown": {
       "2026-07-13": 318,
@@ -216,7 +216,7 @@
       "2026-08-20": 665,
       "2026-08-23": 184,
       "2026-08-24": 384,
-      "2026-08-25": 137
+      "2026-08-25": 126
     }
   },
   {
@@ -224,16 +224,16 @@
     "url": "https://qsticker.akarin.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/qsticker.akarin.dev.ico",
     "slug": "qsticker-archive",
-    "status": "up",
-    "uptime": "98.54%",
-    "uptimeDay": "78.95%",
-    "uptimeWeek": "87.03%",
-    "uptimeMonth": "94.00%",
-    "uptimeYear": "98.54%",
+    "status": "down",
+    "uptime": "98.55%",
+    "uptimeDay": "80.20%",
+    "uptimeWeek": "87.14%",
+    "uptimeMonth": "94.05%",
+    "uptimeYear": "98.55%",
     "time": 1033,
-    "timeDay": 1276,
-    "timeWeek": 897,
-    "timeMonth": 948,
+    "timeDay": 1279,
+    "timeWeek": 895,
+    "timeMonth": 955,
     "timeYear": 1033,
     "dailyMinutesDown": {
       "2026-07-13": 303,
@@ -262,7 +262,7 @@
       "2026-08-20": 665,
       "2026-08-23": 155,
       "2026-08-24": 351,
-      "2026-08-25": 137
+      "2026-08-25": 126
     }
   },
   {
@@ -272,14 +272,14 @@
     "slug": "dufs-file-sharing",
     "status": "down",
     "uptime": "98.59%",
-    "uptimeDay": "81.35%",
-    "uptimeWeek": "87.42%",
-    "uptimeMonth": "94.19%",
+    "uptimeDay": "80.78%",
+    "uptimeWeek": "87.27%",
+    "uptimeMonth": "94.18%",
     "uptimeYear": "98.59%",
     "time": 870,
-    "timeDay": 725,
+    "timeDay": 722,
     "timeWeek": 659,
-    "timeMonth": 632,
+    "timeMonth": 638,
     "timeYear": 870,
     "dailyMinutesDown": {
       "2026-07-12": 221,
@@ -307,7 +307,7 @@
       "2026-08-20": 665,
       "2026-08-23": 150,
       "2026-08-24": 351,
-      "2026-08-25": 102
+      "2026-08-25": 117
     }
   }
 ]
