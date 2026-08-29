@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.22%",
+    "uptimeYear": "99.23%",
     "time": 1106,
     "timeDay": 848,
     "timeWeek": 706,
@@ -178,16 +178,16 @@
     "url": "https://crypto-lab.akarin.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/crypto-lab.akarin.dev.ico",
     "slug": "crypto-lab",
-    "status": "down",
+    "status": "up",
     "uptime": "98.60%",
-    "uptimeDay": "74.26%",
-    "uptimeWeek": "79.09%",
-    "uptimeMonth": "92.31%",
+    "uptimeDay": "73.08%",
+    "uptimeWeek": "78.92%",
+    "uptimeMonth": "92.27%",
     "uptimeYear": "98.60%",
     "time": 1681,
-    "timeDay": 1193,
-    "timeWeek": 1071,
-    "timeMonth": 1247,
+    "timeDay": 1166,
+    "timeWeek": 1068,
+    "timeMonth": 1244,
     "timeYear": 1681,
     "dailyMinutesDown": {
       "2026-07-16": 116,
@@ -216,7 +216,7 @@
       "2026-08-26": 313,
       "2026-08-27": 418,
       "2026-08-28": 406,
-      "2026-08-29": 125
+      "2026-08-29": 142
     }
   },
   {
@@ -224,16 +224,16 @@
     "url": "https://qsticker.akarin.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/qsticker.akarin.dev.ico",
     "slug": "qsticker-archive",
-    "status": "down",
+    "status": "up",
     "uptime": "98.55%",
-    "uptimeDay": "77.39%",
-    "uptimeWeek": "80.16%",
-    "uptimeMonth": "92.33%",
+    "uptimeDay": "76.21%",
+    "uptimeWeek": "79.99%",
+    "uptimeMonth": "92.29%",
     "uptimeYear": "98.55%",
     "time": 1034,
-    "timeDay": 1579,
-    "timeWeek": 1017,
-    "timeMonth": 1048,
+    "timeDay": 1541,
+    "timeWeek": 1016,
+    "timeMonth": 1047,
     "timeYear": 1034,
     "dailyMinutesDown": {
       "2026-07-16": 140,
@@ -263,7 +263,7 @@
       "2026-08-26": 312,
       "2026-08-27": 418,
       "2026-08-28": 405,
-      "2026-08-29": 81
+      "2026-08-29": 98
     }
   },
   {
@@ -271,16 +271,16 @@
     "url": "https://fuwafuwa.akarin.dev/__dufs__/health",
     "icon": "https://icons.duckduckgo.com/ip3/fuwafuwa.akarin.dev.ico",
     "slug": "dufs-file-sharing",
-    "status": "down",
-    "uptime": "98.56%",
-    "uptimeDay": "75.30%",
-    "uptimeWeek": "80.26%",
-    "uptimeMonth": "92.61%",
-    "uptimeYear": "98.56%",
+    "status": "up",
+    "uptime": "98.55%",
+    "uptimeDay": "74.12%",
+    "uptimeWeek": "80.09%",
+    "uptimeMonth": "92.57%",
+    "uptimeYear": "98.55%",
     "time": 868,
-    "timeDay": 894,
-    "timeWeek": 683,
-    "timeMonth": 706,
+    "timeDay": 888,
+    "timeWeek": 685,
+    "timeMonth": 707,
     "timeYear": 868,
     "dailyMinutesDown": {
       "2026-07-15": 268,
@@ -309,7 +309,7 @@
       "2026-08-26": 312,
       "2026-08-27": 418,
       "2026-08-28": 403,
-      "2026-08-29": 112
+      "2026-08-29": 129
     }
   }
 ]
