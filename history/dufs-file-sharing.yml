@@ -1,7 +1,7 @@
 url: https://fuwafuwa.akarin.dev/__dufs__/health
-status: up
-code: 200
-responseTime: 5813
-lastUpdated: 2026-08-30T21:36:40.389Z
+status: down
+code: 530
+responseTime: 50
+lastUpdated: 2026-08-30T21:58:50.138Z
 startTime: 2025-10-03T08:32:57.296Z
 generator: Upptime <https://github.com/upptime/upptime>
