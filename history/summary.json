@@ -177,16 +177,16 @@
     "url": "https://crypto-lab.akarin.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/crypto-lab.akarin.dev.ico",
     "slug": "crypto-lab",
-    "status": "down",
+    "status": "up",
     "uptime": "98.62%",
-    "uptimeDay": "81.27%",
-    "uptimeWeek": "76.61%",
-    "uptimeMonth": "92.04%",
+    "uptimeDay": "80.34%",
+    "uptimeWeek": "76.53%",
+    "uptimeMonth": "92.01%",
     "uptimeYear": "98.62%",
     "time": 1680,
-    "timeDay": 1400,
-    "timeWeek": 1177,
-    "timeMonth": 1328,
+    "timeDay": 1380,
+    "timeWeek": 1185,
+    "timeMonth": 1325,
     "timeYear": 1680,
     "dailyMinutesDown": {
       "2026-07-18": 370,
@@ -214,7 +214,7 @@
       "2026-08-27": 418,
       "2026-08-28": 406,
       "2026-08-29": 253,
-      "2026-08-30": 220
+      "2026-08-30": 233
     }
   },
   {
@@ -224,13 +224,13 @@
     "slug": "qsticker-archive",
     "status": "down",
     "uptime": "98.57%",
-    "uptimeDay": "81.91%",
-    "uptimeWeek": "77.63%",
-    "uptimeMonth": "92.23%",
+    "uptimeDay": "80.91%",
+    "uptimeWeek": "77.54%",
+    "uptimeMonth": "92.19%",
     "uptimeYear": "98.57%",
     "time": 1036,
     "timeDay": 1352,
-    "timeWeek": 1110,
+    "timeWeek": 1119,
     "timeMonth": 1094,
     "timeYear": 1036,
     "dailyMinutesDown": {
@@ -261,7 +261,7 @@
       "2026-08-27": 418,
       "2026-08-28": 405,
       "2026-08-29": 182,
-      "2026-08-30": 224
+      "2026-08-30": 238
     }
   },
   {
@@ -271,13 +271,13 @@
     "slug": "dufs-file-sharing",
     "status": "down",
     "uptime": "98.60%",
-    "uptimeDay": "81.99%",
+    "uptimeDay": "80.99%",
     "uptimeWeek": "77.46%",
-    "uptimeMonth": "92.35%",
+    "uptimeMonth": "92.32%",
     "uptimeYear": "98.60%",
     "time": 867,
     "timeDay": 798,
-    "timeWeek": 738,
+    "timeWeek": 743,
     "timeMonth": 727,
     "timeYear": 867,
     "dailyMinutesDown": {
@@ -306,7 +306,7 @@
       "2026-08-27": 418,
       "2026-08-28": 403,
       "2026-08-29": 228,
-      "2026-08-30": 224
+      "2026-08-30": 238
     }
   }
 ]
