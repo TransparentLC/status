@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.29%",
+    "uptimeYear": "99.30%",
     "time": 1105,
     "timeDay": 497,
     "timeWeek": 690,
@@ -180,8 +180,8 @@
     "status": "down",
     "uptime": "98.62%",
     "uptimeDay": "83.57%",
-    "uptimeWeek": "77.82%",
-    "uptimeMonth": "92.02%",
+    "uptimeWeek": "77.63%",
+    "uptimeMonth": "91.98%",
     "uptimeYear": "98.62%",
     "time": 1685,
     "timeDay": 1965,
@@ -215,7 +215,7 @@
       "2026-08-27": 418,
       "2026-08-28": 406,
       "2026-08-29": 253,
-      "2026-08-30": 1
+      "2026-08-30": 20
     }
   },
   {
@@ -224,11 +224,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/qsticker.akarin.dev.ico",
     "slug": "qsticker-archive",
     "status": "down",
-    "uptime": "98.57%",
+    "uptime": "98.56%",
     "uptimeDay": "87.40%",
-    "uptimeWeek": "79.00%",
-    "uptimeMonth": "92.06%",
-    "uptimeYear": "98.57%",
+    "uptimeWeek": "78.81%",
+    "uptimeMonth": "92.02%",
+    "uptimeYear": "98.56%",
     "time": 1032,
     "timeDay": 1424,
     "timeWeek": 975,
@@ -262,7 +262,7 @@
       "2026-08-27": 418,
       "2026-08-28": 405,
       "2026-08-29": 182,
-      "2026-08-30": 16
+      "2026-08-30": 36
     }
   },
   {
@@ -273,8 +273,8 @@
     "status": "down",
     "uptime": "98.56%",
     "uptimeDay": "84.18%",
-    "uptimeWeek": "78.94%",
-    "uptimeMonth": "92.31%",
+    "uptimeWeek": "78.75%",
+    "uptimeMonth": "92.26%",
     "uptimeYear": "98.56%",
     "time": 867,
     "timeDay": 638,
@@ -309,7 +309,7 @@
       "2026-08-27": 418,
       "2026-08-28": 403,
       "2026-08-29": 228,
-      "2026-08-30": 16
+      "2026-08-30": 36
     }
   }
 ]
