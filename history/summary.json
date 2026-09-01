@@ -176,17 +176,17 @@
     "url": "https://crypto-lab.akarin.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/crypto-lab.akarin.dev.ico",
     "slug": "crypto-lab",
-    "status": "up",
+    "status": "down",
     "uptime": "98.66%",
-    "uptimeDay": "80.04%",
-    "uptimeWeek": "78.80%",
-    "uptimeMonth": "90.94%",
+    "uptimeDay": "81.12%",
+    "uptimeWeek": "78.92%",
+    "uptimeMonth": "90.97%",
     "uptimeYear": "98.66%",
-    "time": 1677,
-    "timeDay": 1537,
-    "timeWeek": 1390,
-    "timeMonth": 1356,
-    "timeYear": 1677,
+    "time": 1676,
+    "timeDay": 1483,
+    "timeWeek": 1381,
+    "timeMonth": 1350,
+    "timeYear": 1676,
     "dailyMinutesDown": {
       "2026-07-19": 303,
       "2026-07-20": 139,
@@ -214,7 +214,7 @@
       "2026-08-29": 253,
       "2026-08-30": 294,
       "2026-08-31": 157,
-      "2026-09-01": 251
+      "2026-09-01": 241
     }
   },
   {
@@ -222,16 +222,16 @@
     "url": "https://qsticker.akarin.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/qsticker.akarin.dev.ico",
     "slug": "qsticker-archive",
-    "status": "up",
+    "status": "down",
     "uptime": "98.67%",
-    "uptimeDay": "79.61%",
-    "uptimeWeek": "79.45%",
-    "uptimeMonth": "91.21%",
+    "uptimeDay": "80.71%",
+    "uptimeWeek": "79.57%",
+    "uptimeMonth": "91.23%",
     "uptimeYear": "98.67%",
     "time": 1044,
-    "timeDay": 2310,
-    "timeWeek": 1319,
-    "timeMonth": 1181,
+    "timeDay": 2212,
+    "timeWeek": 1267,
+    "timeMonth": 1176,
     "timeYear": 1044,
     "dailyMinutesDown": {
       "2026-07-19": 231,
@@ -261,7 +261,7 @@
       "2026-08-29": 182,
       "2026-08-30": 298,
       "2026-08-31": 156,
-      "2026-09-01": 256
+      "2026-09-01": 246
     }
   },
   {
@@ -272,8 +272,8 @@
     "status": "down",
     "uptime": "98.66%",
     "uptimeDay": "81.68%",
-    "uptimeWeek": "79.92%",
-    "uptimeMonth": "91.45%",
+    "uptimeWeek": "79.88%",
+    "uptimeMonth": "91.44%",
     "uptimeYear": "98.66%",
     "time": 871,
     "timeDay": 1363,
@@ -307,7 +307,7 @@
       "2026-08-29": 228,
       "2026-08-30": 297,
       "2026-08-31": 71,
-      "2026-09-01": 251
+      "2026-09-01": 256
     }
   }
 ]
