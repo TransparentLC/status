@@ -177,14 +177,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/crypto-lab.akarin.dev.ico",
     "slug": "crypto-lab",
     "status": "down",
-    "uptime": "98.66%",
-    "uptimeDay": "86.41%",
-    "uptimeWeek": "78.85%",
-    "uptimeMonth": "91.42%",
-    "uptimeYear": "98.66%",
+    "uptime": "98.65%",
+    "uptimeDay": "82.26%",
+    "uptimeWeek": "78.61%",
+    "uptimeMonth": "91.29%",
+    "uptimeYear": "98.65%",
     "time": 1676,
     "timeDay": 1035,
-    "timeWeek": 1251,
+    "timeWeek": 1253,
     "timeMonth": 1309,
     "timeYear": 1676,
     "dailyMinutesDown": {
@@ -214,7 +214,7 @@
       "2026-08-29": 253,
       "2026-08-30": 294,
       "2026-08-31": 157,
-      "2026-09-01": 39
+      "2026-09-01": 99
     }
   },
   {
@@ -222,16 +222,16 @@
     "url": "https://qsticker.akarin.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/qsticker.akarin.dev.ico",
     "slug": "qsticker-archive",
-    "status": "down",
-    "uptime": "98.67%",
-    "uptimeDay": "86.48%",
-    "uptimeWeek": "79.57%",
-    "uptimeMonth": "91.71%",
-    "uptimeYear": "98.67%",
+    "status": "up",
+    "uptime": "98.65%",
+    "uptimeDay": "82.41%",
+    "uptimeWeek": "79.34%",
+    "uptimeMonth": "91.57%",
+    "uptimeYear": "98.65%",
     "time": 1032,
-    "timeDay": 714,
+    "timeDay": 723,
     "timeWeek": 1120,
-    "timeMonth": 1027,
+    "timeMonth": 1026,
     "timeYear": 1032,
     "dailyMinutesDown": {
       "2026-07-19": 461,
@@ -261,7 +261,7 @@
       "2026-08-29": 182,
       "2026-08-30": 298,
       "2026-08-31": 156,
-      "2026-09-01": 39
+      "2026-09-01": 97
     }
   },
   {
@@ -270,11 +270,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/fuwafuwa.akarin.dev.ico",
     "slug": "dufs-file-sharing",
     "status": "down",
-    "uptime": "98.63%",
-    "uptimeDay": "92.41%",
-    "uptimeWeek": "80.05%",
-    "uptimeMonth": "91.94%",
-    "uptimeYear": "98.63%",
+    "uptime": "98.62%",
+    "uptimeDay": "88.26%",
+    "uptimeWeek": "79.74%",
+    "uptimeMonth": "91.80%",
+    "uptimeYear": "98.62%",
     "time": 867,
     "timeDay": 766,
     "timeWeek": 784,
@@ -308,7 +308,7 @@
       "2026-08-29": 228,
       "2026-08-30": 297,
       "2026-08-31": 71,
-      "2026-09-01": 39
+      "2026-09-01": 98
     }
   }
 ]
