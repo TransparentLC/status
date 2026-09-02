@@ -178,12 +178,12 @@
     "slug": "crypto-lab",
     "status": "down",
     "uptime": "98.67%",
-    "uptimeDay": "79.70%",
-    "uptimeWeek": "78.51%",
-    "uptimeMonth": "90.47%",
+    "uptimeDay": "79.37%",
+    "uptimeWeek": "78.45%",
+    "uptimeMonth": "90.46%",
     "uptimeYear": "98.67%",
     "time": 1672,
-    "timeDay": 1365,
+    "timeDay": 1361,
     "timeWeek": 1387,
     "timeMonth": 1322,
     "timeYear": 1672,
@@ -215,7 +215,7 @@
       "2026-08-30": 294,
       "2026-08-31": 157,
       "2026-09-01": 270,
-      "2026-09-02": 186
+      "2026-09-02": 192
     }
   },
   {
@@ -223,15 +223,15 @@
     "url": "https://qsticker.akarin.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/qsticker.akarin.dev.ico",
     "slug": "qsticker-archive",
-    "status": "down",
+    "status": "up",
     "uptime": "98.74%",
-    "uptimeDay": "80.10%",
-    "uptimeWeek": "79.32%",
-    "uptimeMonth": "90.78%",
+    "uptimeDay": "79.78%",
+    "uptimeWeek": "79.28%",
+    "uptimeMonth": "90.77%",
     "uptimeYear": "98.74%",
     "time": 1047,
-    "timeDay": 2511,
-    "timeWeek": 1360,
+    "timeDay": 2452,
+    "timeWeek": 1359,
     "timeMonth": 1216,
     "timeYear": 1047,
     "dailyMinutesDown": {
@@ -262,7 +262,7 @@
       "2026-08-30": 298,
       "2026-08-31": 156,
       "2026-09-01": 268,
-      "2026-09-02": 175
+      "2026-09-02": 179
     }
   },
   {
@@ -272,9 +272,9 @@
     "slug": "dufs-file-sharing",
     "status": "down",
     "uptime": "98.66%",
-    "uptimeDay": "79.54%",
-    "uptimeWeek": "79.65%",
-    "uptimeMonth": "90.99%",
+    "uptimeDay": "79.15%",
+    "uptimeWeek": "79.59%",
+    "uptimeMonth": "90.98%",
     "uptimeYear": "98.66%",
     "time": 870,
     "timeDay": 620,
@@ -308,7 +308,7 @@
       "2026-08-30": 297,
       "2026-08-31": 71,
       "2026-09-01": 268,
-      "2026-09-02": 185
+      "2026-09-02": 190
     }
   }
 ]
