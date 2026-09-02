@@ -176,20 +176,19 @@
     "url": "https://crypto-lab.akarin.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/crypto-lab.akarin.dev.ico",
     "slug": "crypto-lab",
-    "status": "up",
+    "status": "down",
     "uptime": "98.67%",
-    "uptimeDay": "80.20%",
-    "uptimeWeek": "78.57%",
-    "uptimeMonth": "90.45%",
+    "uptimeDay": "80.79%",
+    "uptimeWeek": "78.65%",
+    "uptimeMonth": "90.46%",
     "uptimeYear": "98.67%",
     "time": 1671,
-    "timeDay": 1325,
-    "timeWeek": 1379,
-    "timeMonth": 1317,
+    "timeDay": 1299,
+    "timeWeek": 1373,
+    "timeMonth": 1316,
     "timeYear": 1671,
     "dailyMinutesDown": {
       "2026-07-20": 139,
-      "2026-07-19": 41,
       "2026-07-21": 288,
       "2026-07-22": 239,
       "2026-07-23": 154,
@@ -215,7 +214,7 @@
       "2026-08-30": 294,
       "2026-08-31": 157,
       "2026-09-01": 270,
-      "2026-09-02": 213
+      "2026-09-02": 214
     }
   },
   {
@@ -227,12 +226,12 @@
     "uptime": "98.73%",
     "uptimeDay": "80.47%",
     "uptimeWeek": "79.37%",
-    "uptimeMonth": "90.75%",
+    "uptimeMonth": "90.74%",
     "uptimeYear": "98.73%",
     "time": 1047,
     "timeDay": 2454,
     "timeWeek": 1357,
-    "timeMonth": 1215,
+    "timeMonth": 1192,
     "timeYear": 1047,
     "dailyMinutesDown": {
       "2026-07-20": 23,
@@ -262,7 +261,7 @@
       "2026-08-30": 298,
       "2026-08-31": 156,
       "2026-09-01": 268,
-      "2026-09-02": 203
+      "2026-09-02": 212
     }
   },
   {
@@ -274,7 +273,7 @@
     "uptime": "98.65%",
     "uptimeDay": "79.91%",
     "uptimeWeek": "79.70%",
-    "uptimeMonth": "90.93%",
+    "uptimeMonth": "90.91%",
     "uptimeYear": "98.65%",
     "time": 870,
     "timeDay": 638,
@@ -308,7 +307,7 @@
       "2026-08-30": 297,
       "2026-08-31": 71,
       "2026-09-01": 268,
-      "2026-09-02": 213
+      "2026-09-02": 222
     }
   }
 ]
