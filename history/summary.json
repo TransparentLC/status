@@ -176,17 +176,17 @@
     "url": "https://crypto-lab.akarin.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/crypto-lab.akarin.dev.ico",
     "slug": "crypto-lab",
-    "status": "down",
+    "status": "up",
     "uptime": "98.67%",
-    "uptimeDay": "80.14%",
-    "uptimeWeek": "78.56%",
-    "uptimeMonth": "90.47%",
+    "uptimeDay": "80.20%",
+    "uptimeWeek": "78.57%",
+    "uptimeMonth": "90.45%",
     "uptimeYear": "98.67%",
-    "time": 1672,
-    "timeDay": 1337,
-    "timeWeek": 1381,
-    "timeMonth": 1316,
-    "timeYear": 1672,
+    "time": 1671,
+    "timeDay": 1325,
+    "timeWeek": 1379,
+    "timeMonth": 1317,
+    "timeYear": 1671,
     "dailyMinutesDown": {
       "2026-07-20": 139,
       "2026-07-19": 41,
@@ -215,7 +215,7 @@
       "2026-08-30": 294,
       "2026-08-31": 157,
       "2026-09-01": 270,
-      "2026-09-02": 186
+      "2026-09-02": 213
     }
   },
   {
@@ -224,15 +224,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/qsticker.akarin.dev.ico",
     "slug": "qsticker-archive",
     "status": "down",
-    "uptime": "98.74%",
+    "uptime": "98.73%",
     "uptimeDay": "80.47%",
     "uptimeWeek": "79.37%",
-    "uptimeMonth": "90.78%",
-    "uptimeYear": "98.74%",
+    "uptimeMonth": "90.75%",
+    "uptimeYear": "98.73%",
     "time": 1047,
     "timeDay": 2454,
     "timeWeek": 1357,
-    "timeMonth": 1212,
+    "timeMonth": 1215,
     "timeYear": 1047,
     "dailyMinutesDown": {
       "2026-07-20": 23,
@@ -262,7 +262,7 @@
       "2026-08-30": 298,
       "2026-08-31": 156,
       "2026-09-01": 268,
-      "2026-09-02": 175
+      "2026-09-02": 203
     }
   },
   {
@@ -271,11 +271,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/fuwafuwa.akarin.dev.ico",
     "slug": "dufs-file-sharing",
     "status": "down",
-    "uptime": "98.66%",
+    "uptime": "98.65%",
     "uptimeDay": "79.91%",
     "uptimeWeek": "79.70%",
-    "uptimeMonth": "90.99%",
-    "uptimeYear": "98.66%",
+    "uptimeMonth": "90.93%",
+    "uptimeYear": "98.65%",
     "time": 870,
     "timeDay": 638,
     "timeWeek": 890,
@@ -308,7 +308,7 @@
       "2026-08-30": 297,
       "2026-08-31": 71,
       "2026-09-01": 268,
-      "2026-09-02": 185
+      "2026-09-02": 213
     }
   }
 ]
