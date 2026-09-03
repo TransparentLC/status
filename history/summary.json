@@ -176,16 +176,16 @@
     "url": "https://crypto-lab.akarin.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/crypto-lab.akarin.dev.ico",
     "slug": "crypto-lab",
-    "status": "down",
-    "uptime": "98.69%",
-    "uptimeDay": "79.33%",
-    "uptimeWeek": "79.14%",
-    "uptimeMonth": "90.26%",
-    "uptimeYear": "98.69%",
+    "status": "up",
+    "uptime": "98.68%",
+    "uptimeDay": "78.74%",
+    "uptimeWeek": "79.15%",
+    "uptimeMonth": "90.24%",
+    "uptimeYear": "98.68%",
     "time": 1671,
-    "timeDay": 1327,
-    "timeWeek": 1429,
-    "timeMonth": 1337,
+    "timeDay": 1346,
+    "timeWeek": 1422,
+    "timeMonth": 1334,
     "timeYear": 1671,
     "dailyMinutesDown": {
       "2026-07-21": 288,
@@ -213,7 +213,8 @@
       "2026-08-30": 294,
       "2026-08-31": 157,
       "2026-09-01": 270,
-      "2026-09-02": 298
+      "2026-09-02": 307,
+      "2026-09-03": 0
     }
   },
   {
@@ -223,12 +224,12 @@
     "slug": "qsticker-archive",
     "status": "down",
     "uptime": "98.76%",
-    "uptimeDay": "79.10%",
+    "uptimeDay": "78.44%",
     "uptimeWeek": "79.81%",
-    "uptimeMonth": "90.54%",
+    "uptimeMonth": "90.52%",
     "uptimeYear": "98.76%",
     "time": 1045,
-    "timeDay": 1179,
+    "timeDay": 1226,
     "timeWeek": 1284,
     "timeMonth": 1155,
     "timeYear": 1045,
@@ -259,7 +260,8 @@
       "2026-08-30": 298,
       "2026-08-31": 156,
       "2026-09-01": 268,
-      "2026-09-02": 301
+      "2026-09-02": 310,
+      "2026-09-03": 1
     }
   },
   {
@@ -268,13 +270,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/fuwafuwa.akarin.dev.ico",
     "slug": "dufs-file-sharing",
     "status": "down",
-    "uptime": "98.66%",
-    "uptimeDay": "77.74%",
+    "uptime": "98.65%",
+    "uptimeDay": "77.07%",
     "uptimeWeek": "80.03%",
-    "uptimeMonth": "90.68%",
-    "uptimeYear": "98.66%",
+    "uptimeMonth": "90.66%",
+    "uptimeYear": "98.65%",
     "time": 868,
-    "timeDay": 531,
+    "timeDay": 555,
     "timeWeek": 849,
     "timeMonth": 782,
     "timeYear": 868,
@@ -305,7 +307,8 @@
       "2026-08-30": 297,
       "2026-08-31": 71,
       "2026-09-01": 268,
-      "2026-09-02": 322
+      "2026-09-02": 331,
+      "2026-09-03": 1
     }
   }
 ]
