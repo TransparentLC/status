@@ -176,17 +176,17 @@
     "url": "https://crypto-lab.akarin.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/crypto-lab.akarin.dev.ico",
     "slug": "crypto-lab",
-    "status": "down",
-    "uptime": "98.71%",
-    "uptimeDay": "80.85%",
-    "uptimeWeek": "80.51%",
-    "uptimeMonth": "90.06%",
-    "uptimeYear": "98.71%",
-    "time": 1669,
-    "timeDay": 1263,
-    "timeWeek": 1402,
-    "timeMonth": 1317,
-    "timeYear": 1669,
+    "status": "up",
+    "uptime": "98.70%",
+    "uptimeDay": "80.92%",
+    "uptimeWeek": "80.40%",
+    "uptimeMonth": "90.03%",
+    "uptimeYear": "98.70%",
+    "time": 1668,
+    "timeDay": 1246,
+    "timeWeek": 1397,
+    "timeMonth": 1315,
+    "timeYear": 1668,
     "dailyMinutesDown": {
       "2026-07-21": 117,
       "2026-07-22": 239,
@@ -214,7 +214,7 @@
       "2026-08-31": 157,
       "2026-09-01": 270,
       "2026-09-02": 297,
-      "2026-09-03": 92
+      "2026-09-03": 102
     }
   },
   {
@@ -225,8 +225,8 @@
     "status": "down",
     "uptime": "98.77%",
     "uptimeDay": "77.51%",
-    "uptimeWeek": "80.73%",
-    "uptimeMonth": "90.23%",
+    "uptimeWeek": "80.62%",
+    "uptimeMonth": "90.21%",
     "uptimeYear": "98.77%",
     "time": 1044,
     "timeDay": 719,
@@ -260,7 +260,7 @@
       "2026-08-31": 156,
       "2026-09-01": 268,
       "2026-09-02": 310,
-      "2026-09-03": 126
+      "2026-09-03": 137
     }
   },
   {
@@ -268,14 +268,14 @@
     "url": "https://fuwafuwa.akarin.dev/__dufs__/health",
     "icon": "https://icons.duckduckgo.com/ip3/fuwafuwa.akarin.dev.ico",
     "slug": "dufs-file-sharing",
-    "status": "down",
-    "uptime": "98.70%",
-    "uptimeDay": "76.15%",
-    "uptimeWeek": "80.96%",
-    "uptimeMonth": "90.38%",
-    "uptimeYear": "98.70%",
+    "status": "up",
+    "uptime": "98.69%",
+    "uptimeDay": "76.20%",
+    "uptimeWeek": "80.86%",
+    "uptimeMonth": "90.35%",
+    "uptimeYear": "98.69%",
     "time": 867,
-    "timeDay": 479,
+    "timeDay": 492,
     "timeWeek": 834,
     "timeMonth": 772,
     "timeYear": 867,
@@ -306,7 +306,7 @@
       "2026-08-31": 71,
       "2026-09-01": 268,
       "2026-09-02": 331,
-      "2026-09-03": 125
+      "2026-09-03": 135
     }
   }
 ]
