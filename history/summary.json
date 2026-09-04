@@ -178,13 +178,13 @@
     "slug": "crypto-lab",
     "status": "down",
     "uptime": "98.73%",
-    "uptimeDay": "81.08%",
-    "uptimeWeek": "81.96%",
-    "uptimeMonth": "89.22%",
+    "uptimeDay": "80.79%",
+    "uptimeWeek": "81.94%",
+    "uptimeMonth": "89.15%",
     "uptimeYear": "98.73%",
     "time": 1672,
-    "timeDay": 2004,
-    "timeWeek": 1495,
+    "timeDay": 2106,
+    "timeWeek": 1498,
     "timeMonth": 1381,
     "timeYear": 1672,
     "dailyMinutesDown": {
@@ -213,7 +213,7 @@
       "2026-09-01": 270,
       "2026-09-02": 297,
       "2026-09-03": 318,
-      "2026-09-04": 140
+      "2026-09-04": 171
     }
   },
   {
@@ -221,16 +221,16 @@
     "url": "https://qsticker.akarin.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/qsticker.akarin.dev.ico",
     "slug": "qsticker-archive",
-    "status": "down",
-    "uptime": "98.79%",
-    "uptimeDay": "82.26%",
-    "uptimeWeek": "82.06%",
-    "uptimeMonth": "89.37%",
-    "uptimeYear": "98.79%",
+    "status": "up",
+    "uptime": "98.78%",
+    "uptimeDay": "80.66%",
+    "uptimeWeek": "82.05%",
+    "uptimeMonth": "89.30%",
+    "uptimeYear": "98.78%",
     "time": 1046,
-    "timeDay": 1367,
+    "timeDay": 1443,
     "timeWeek": 1299,
-    "timeMonth": 1160,
+    "timeMonth": 1159,
     "timeYear": 1046,
     "dailyMinutesDown": {
       "2026-07-24": 139,
@@ -258,7 +258,7 @@
       "2026-09-01": 268,
       "2026-09-02": 310,
       "2026-09-03": 311,
-      "2026-09-04": 191
+      "2026-09-04": 221
     }
   },
   {
@@ -266,16 +266,16 @@
     "url": "https://fuwafuwa.akarin.dev/__dufs__/health",
     "icon": "https://icons.duckduckgo.com/ip3/fuwafuwa.akarin.dev.ico",
     "slug": "dufs-file-sharing",
-    "status": "down",
-    "uptime": "98.72%",
-    "uptimeDay": "81.62%",
-    "uptimeWeek": "82.40%",
-    "uptimeMonth": "89.54%",
-    "uptimeYear": "98.72%",
+    "status": "up",
+    "uptime": "98.71%",
+    "uptimeDay": "80.01%",
+    "uptimeWeek": "82.39%",
+    "uptimeMonth": "89.47%",
+    "uptimeYear": "98.71%",
     "time": 870,
-    "timeDay": 1233,
-    "timeWeek": 912,
-    "timeMonth": 815,
+    "timeDay": 1302,
+    "timeWeek": 878,
+    "timeMonth": 816,
     "timeYear": 870,
     "dailyMinutesDown": {
       "2026-07-22": 158,
@@ -303,7 +303,7 @@
       "2026-09-01": 268,
       "2026-09-02": 331,
       "2026-09-03": 304,
-      "2026-09-04": 186
+      "2026-09-04": 216
     }
   }
 ]
