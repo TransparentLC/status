@@ -176,16 +176,16 @@
     "url": "https://crypto-lab.akarin.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/crypto-lab.akarin.dev.ico",
     "slug": "crypto-lab",
-    "status": "down",
+    "status": "up",
     "uptime": "98.73%",
-    "uptimeDay": "78.42%",
-    "uptimeWeek": "81.23%",
-    "uptimeMonth": "89.26%",
+    "uptimeDay": "78.47%",
+    "uptimeWeek": "81.24%",
+    "uptimeMonth": "89.24%",
     "uptimeYear": "98.73%",
     "time": 1672,
-    "timeDay": 2319,
-    "timeWeek": 1497,
-    "timeMonth": 1380,
+    "timeDay": 2237,
+    "timeWeek": 1493,
+    "timeMonth": 1378,
     "timeYear": 1672,
     "dailyMinutesDown": {
       "2026-07-23": 64,
@@ -213,7 +213,7 @@
       "2026-09-01": 270,
       "2026-09-02": 297,
       "2026-09-03": 318,
-      "2026-09-04": 122
+      "2026-09-04": 132
     }
   },
   {
@@ -221,16 +221,16 @@
     "url": "https://qsticker.akarin.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/qsticker.akarin.dev.ico",
     "slug": "qsticker-archive",
-    "status": "down",
+    "status": "up",
     "uptime": "98.79%",
-    "uptimeDay": "80.28%",
-    "uptimeWeek": "81.51%",
-    "uptimeMonth": "89.45%",
+    "uptimeDay": "80.33%",
+    "uptimeWeek": "81.52%",
+    "uptimeMonth": "89.43%",
     "uptimeYear": "98.79%",
     "time": 1044,
-    "timeDay": 1180,
-    "timeWeek": 1272,
-    "timeMonth": 1142,
+    "timeDay": 1167,
+    "timeWeek": 1269,
+    "timeMonth": 1141,
     "timeYear": 1044,
     "dailyMinutesDown": {
       "2026-07-24": 171,
@@ -258,7 +258,7 @@
       "2026-09-01": 268,
       "2026-09-02": 310,
       "2026-09-03": 311,
-      "2026-09-04": 155
+      "2026-09-04": 164
     }
   },
   {
@@ -270,7 +270,7 @@
     "uptime": "98.70%",
     "uptimeDay": "80.78%",
     "uptimeWeek": "82.01%",
-    "uptimeMonth": "89.66%",
+    "uptimeMonth": "89.64%",
     "uptimeYear": "98.70%",
     "time": 867,
     "timeDay": 864,
@@ -304,7 +304,7 @@
       "2026-09-01": 268,
       "2026-09-02": 331,
       "2026-09-03": 304,
-      "2026-09-04": 134
+      "2026-09-04": 144
     }
   }
 ]
