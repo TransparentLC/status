@@ -178,12 +178,12 @@
     "slug": "crypto-lab",
     "status": "up",
     "uptime": "98.72%",
-    "uptimeDay": "80.54%",
+    "uptimeDay": "80.70%",
     "uptimeWeek": "81.82%",
     "uptimeMonth": "89.13%",
     "uptimeYear": "98.72%",
     "time": 1671,
-    "timeDay": 1827,
+    "timeDay": 1925,
     "timeWeek": 1494,
     "timeMonth": 1379,
     "timeYear": 1671,
@@ -221,16 +221,16 @@
     "url": "https://qsticker.akarin.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/qsticker.akarin.dev.ico",
     "slug": "qsticker-archive",
-    "status": "up",
+    "status": "down",
     "uptime": "98.79%",
-    "uptimeDay": "80.75%",
-    "uptimeWeek": "81.97%",
-    "uptimeMonth": "89.29%",
+    "uptimeDay": "81.21%",
+    "uptimeWeek": "82.04%",
+    "uptimeMonth": "89.30%",
     "uptimeYear": "98.79%",
     "time": 1046,
-    "timeDay": 1385,
-    "timeWeek": 1289,
-    "timeMonth": 1154,
+    "timeDay": 1411,
+    "timeWeek": 1285,
+    "timeMonth": 1153,
     "timeYear": 1046,
     "dailyMinutesDown": {
       "2026-07-24": 77,
@@ -258,7 +258,7 @@
       "2026-09-01": 268,
       "2026-09-02": 310,
       "2026-09-03": 311,
-      "2026-09-04": 228
+      "2026-09-04": 222
     }
   },
   {
@@ -266,15 +266,15 @@
     "url": "https://fuwafuwa.akarin.dev/__dufs__/health",
     "icon": "https://icons.duckduckgo.com/ip3/fuwafuwa.akarin.dev.ico",
     "slug": "dufs-file-sharing",
-    "status": "up",
+    "status": "down",
     "uptime": "98.72%",
-    "uptimeDay": "80.11%",
-    "uptimeWeek": "82.32%",
-    "uptimeMonth": "89.46%",
+    "uptimeDay": "80.71%",
+    "uptimeWeek": "82.38%",
+    "uptimeMonth": "89.47%",
     "uptimeYear": "98.72%",
     "time": 870,
-    "timeDay": 1246,
-    "timeWeek": 873,
+    "timeDay": 1272,
+    "timeWeek": 872,
     "timeMonth": 813,
     "timeYear": 870,
     "dailyMinutesDown": {
@@ -303,7 +303,7 @@
       "2026-09-01": 268,
       "2026-09-02": 331,
       "2026-09-03": 304,
-      "2026-09-04": 223
+      "2026-09-04": 217
     }
   }
 ]
