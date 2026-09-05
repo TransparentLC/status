@@ -173,17 +173,17 @@
     "url": "https://crypto-lab.akarin.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/crypto-lab.akarin.dev.ico",
     "slug": "crypto-lab",
-    "status": "down",
+    "status": "up",
     "uptime": "98.77%",
-    "uptimeDay": "84.77%",
+    "uptimeDay": "84.84%",
     "uptimeWeek": "82.35%",
-    "uptimeMonth": "88.65%",
+    "uptimeMonth": "88.64%",
     "uptimeYear": "98.77%",
-    "time": 1674,
-    "timeDay": 1965,
-    "timeWeek": 1542,
-    "timeMonth": 1433,
-    "timeYear": 1674,
+    "time": 1676,
+    "timeDay": 2111,
+    "timeWeek": 1573,
+    "timeMonth": 1448,
+    "timeYear": 1676,
     "dailyMinutesDown": {
       "2026-07-25": 72,
       "2026-07-26": 205,
@@ -209,7 +209,7 @@
       "2026-09-02": 297,
       "2026-09-03": 318,
       "2026-09-04": 217,
-      "2026-09-05": 174
+      "2026-09-05": 179
     }
   },
   {
@@ -219,12 +219,12 @@
     "slug": "qsticker-archive",
     "status": "down",
     "uptime": "98.80%",
-    "uptimeDay": "86.87%",
-    "uptimeWeek": "82.23%",
-    "uptimeMonth": "88.87%",
+    "uptimeDay": "86.48%",
+    "uptimeWeek": "82.18%",
+    "uptimeMonth": "88.86%",
     "uptimeYear": "98.80%",
     "time": 1042,
-    "timeDay": 642,
+    "timeDay": 663,
     "timeWeek": 1175,
     "timeMonth": 1109,
     "timeYear": 1042,
@@ -253,7 +253,7 @@
       "2026-09-02": 310,
       "2026-09-03": 311,
       "2026-09-04": 254,
-      "2026-09-05": 156
+      "2026-09-05": 161
     }
   },
   {
@@ -268,7 +268,7 @@
     "uptimeMonth": "89.05%",
     "uptimeYear": "98.77%",
     "time": 867,
-    "timeDay": 549,
+    "timeDay": 566,
     "timeWeek": 847,
     "timeMonth": 788,
     "timeYear": 867,
