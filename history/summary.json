@@ -175,9 +175,9 @@
     "slug": "crypto-lab",
     "status": "down",
     "uptime": "98.81%",
-    "uptimeDay": "85.31%",
-    "uptimeWeek": "82.88%",
-    "uptimeMonth": "87.94%",
+    "uptimeDay": "84.91%",
+    "uptimeWeek": "82.83%",
+    "uptimeMonth": "87.93%",
     "uptimeYear": "98.81%",
     "time": 1685,
     "timeDay": 2136,
@@ -207,7 +207,7 @@
       "2026-09-05": 231,
       "2026-09-06": 299,
       "2026-09-07": 156,
-      "2026-09-08": 105
+      "2026-09-08": 110
     }
   },
   {
@@ -215,19 +215,18 @@
     "url": "https://qsticker.akarin.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/qsticker.akarin.dev.ico",
     "slug": "qsticker-archive",
-    "status": "up",
-    "uptime": "98.86%",
-    "uptimeDay": "87.20%",
-    "uptimeWeek": "82.13%",
-    "uptimeMonth": "88.07%",
-    "uptimeYear": "98.86%",
+    "status": "down",
+    "uptime": "98.87%",
+    "uptimeDay": "87.14%",
+    "uptimeWeek": "82.12%",
+    "uptimeMonth": "88.06%",
+    "uptimeYear": "98.87%",
     "time": 1036,
-    "timeDay": 570,
-    "timeWeek": 1054,
-    "timeMonth": 1060,
+    "timeDay": 560,
+    "timeWeek": 1049,
+    "timeMonth": 1057,
     "timeYear": 1036,
     "dailyMinutesDown": {
-      "2026-07-31": 41,
       "2026-08-02": 20,
       "2026-08-07": 305,
       "2026-08-11": 17,
@@ -249,7 +248,7 @@
       "2026-09-05": 232,
       "2026-09-06": 340,
       "2026-09-07": 154,
-      "2026-09-08": 89
+      "2026-09-08": 90
     }
   },
   {
@@ -257,19 +256,18 @@
     "url": "https://fuwafuwa.akarin.dev/__dufs__/health",
     "icon": "https://icons.duckduckgo.com/ip3/fuwafuwa.akarin.dev.ico",
     "slug": "dufs-file-sharing",
-    "status": "up",
+    "status": "down",
     "uptime": "98.78%",
-    "uptimeDay": "90.49%",
+    "uptimeDay": "90.45%",
     "uptimeWeek": "82.54%",
-    "uptimeMonth": "88.35%",
+    "uptimeMonth": "88.34%",
     "uptimeYear": "98.78%",
     "time": 860,
-    "timeDay": 668,
+    "timeDay": 671,
     "timeWeek": 668,
-    "timeMonth": 753,
+    "timeMonth": 752,
     "timeYear": 860,
     "dailyMinutesDown": {
-      "2026-07-27": 28,
       "2026-07-28": 210,
       "2026-07-29": 124,
       "2026-07-30": 227,
@@ -293,7 +291,7 @@
       "2026-09-05": 217,
       "2026-09-06": 355,
       "2026-09-07": 139,
-      "2026-09-08": 53
+      "2026-09-08": 54
     }
   }
 ]
