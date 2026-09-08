@@ -175,13 +175,13 @@
     "slug": "crypto-lab",
     "status": "down",
     "uptime": "98.79%",
-    "uptimeDay": "86.77%",
-    "uptimeWeek": "82.85%",
-    "uptimeMonth": "87.99%",
+    "uptimeDay": "86.37%",
+    "uptimeWeek": "82.79%",
+    "uptimeMonth": "87.98%",
     "uptimeYear": "98.79%",
     "time": 1683,
     "timeDay": 1739,
-    "timeWeek": 1841,
+    "timeWeek": 1848,
     "timeMonth": 1552,
     "timeYear": 1683,
     "dailyMinutesDown": {
@@ -208,7 +208,7 @@
       "2026-09-05": 231,
       "2026-09-06": 299,
       "2026-09-07": 156,
-      "2026-09-08": 84
+      "2026-09-08": 89
     }
   },
   {
@@ -217,11 +217,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/qsticker.akarin.dev.ico",
     "slug": "qsticker-archive",
     "status": "down",
-    "uptime": "98.87%",
-    "uptimeDay": "89.21%",
+    "uptime": "98.86%",
+    "uptimeDay": "88.82%",
     "uptimeWeek": "82.04%",
-    "uptimeMonth": "88.13%",
-    "uptimeYear": "98.87%",
+    "uptimeMonth": "88.12%",
+    "uptimeYear": "98.86%",
     "time": 1037,
     "timeDay": 559,
     "timeWeek": 1063,
@@ -250,7 +250,7 @@
       "2026-09-05": 232,
       "2026-09-06": 340,
       "2026-09-07": 154,
-      "2026-09-08": 60
+      "2026-09-08": 66
     }
   },
   {
@@ -258,15 +258,15 @@
     "url": "https://fuwafuwa.akarin.dev/__dufs__/health",
     "icon": "https://icons.duckduckgo.com/ip3/fuwafuwa.akarin.dev.ico",
     "slug": "dufs-file-sharing",
-    "status": "down",
+    "status": "up",
     "uptime": "98.78%",
-    "uptimeDay": "90.44%",
-    "uptimeWeek": "82.35%",
-    "uptimeMonth": "88.34%",
+    "uptimeDay": "90.09%",
+    "uptimeWeek": "82.30%",
+    "uptimeMonth": "88.33%",
     "uptimeYear": "98.78%",
     "time": 861,
-    "timeDay": 656,
-    "timeWeek": 760,
+    "timeDay": 658,
+    "timeWeek": 728,
     "timeMonth": 755,
     "timeYear": 861,
     "dailyMinutesDown": {
@@ -293,7 +293,7 @@
       "2026-09-05": 217,
       "2026-09-06": 355,
       "2026-09-07": 139,
-      "2026-09-08": 54
+      "2026-09-08": 59
     }
   }
 ]
