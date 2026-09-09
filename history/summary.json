@@ -180,7 +180,7 @@
     "uptimeMonth": "87.59%",
     "uptimeYear": "98.83%",
     "time": 1684,
-    "timeDay": 1721,
+    "timeDay": 1766,
     "timeWeek": 1847,
     "timeMonth": 1568,
     "timeYear": 1684,
@@ -254,14 +254,14 @@
     "url": "https://fuwafuwa.akarin.dev/__dufs__/health",
     "icon": "https://icons.duckduckgo.com/ip3/fuwafuwa.akarin.dev.ico",
     "slug": "dufs-file-sharing",
-    "status": "down",
+    "status": "up",
     "uptime": "98.80%",
-    "uptimeDay": "92.94%",
-    "uptimeWeek": "83.16%",
-    "uptimeMonth": "88.11%",
+    "uptimeDay": "92.58%",
+    "uptimeWeek": "83.11%",
+    "uptimeMonth": "88.10%",
     "uptimeYear": "98.80%",
     "time": 860,
-    "timeDay": 864,
+    "timeDay": 858,
     "timeWeek": 683,
     "timeMonth": 752,
     "timeYear": 860,
@@ -290,7 +290,7 @@
       "2026-09-06": 355,
       "2026-09-07": 139,
       "2026-09-08": 133,
-      "2026-09-09": 22
+      "2026-09-09": 27
     }
   }
 ]
