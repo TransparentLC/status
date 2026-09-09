@@ -176,12 +176,12 @@
     "status": "down",
     "uptime": "99.02%",
     "uptimeDay": "83.18%",
-    "uptimeWeek": "83.37%",
-    "uptimeMonth": "89.00%",
+    "uptimeWeek": "83.25%",
+    "uptimeMonth": "88.98%",
     "uptimeYear": "99.02%",
     "time": 1689,
     "timeDay": 2290,
-    "timeWeek": 1964,
+    "timeWeek": 1969,
     "timeMonth": 1611,
     "timeYear": 1689,
     "dailyMinutesDown": {
@@ -202,7 +202,7 @@
       "2026-09-06": 299,
       "2026-09-07": 156,
       "2026-09-08": 191,
-      "2026-09-09": 156
+      "2026-09-09": 167
     }
   },
   {
@@ -210,16 +210,16 @@
     "url": "https://qsticker.akarin.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/qsticker.akarin.dev.ico",
     "slug": "qsticker-archive",
-    "status": "down",
+    "status": "up",
     "uptime": "99.00%",
-    "uptimeDay": "64.67%",
-    "uptimeWeek": "79.91%",
-    "uptimeMonth": "88.77%",
+    "uptimeDay": "64.39%",
+    "uptimeWeek": "79.81%",
+    "uptimeMonth": "88.75%",
     "uptimeYear": "99.00%",
     "time": 1047,
-    "timeDay": 2207,
-    "timeWeek": 1043,
-    "timeMonth": 1140,
+    "timeDay": 2255,
+    "timeWeek": 1045,
+    "timeMonth": 1141,
     "timeYear": 1047,
     "dailyMinutesDown": {
       "2026-08-24": 351,
@@ -239,7 +239,7 @@
       "2026-09-06": 340,
       "2026-09-07": 154,
       "2026-09-08": 170,
-      "2026-09-09": 428
+      "2026-09-09": 438
     }
   },
   {
@@ -248,14 +248,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/fuwafuwa.akarin.dev.ico",
     "slug": "dufs-file-sharing",
     "status": "down",
-    "uptime": "98.87%",
-    "uptimeDay": "88.41%",
-    "uptimeWeek": "83.80%",
-    "uptimeMonth": "87.97%",
-    "uptimeYear": "98.87%",
+    "uptime": "98.86%",
+    "uptimeDay": "88.05%",
+    "uptimeWeek": "83.69%",
+    "uptimeMonth": "87.94%",
+    "uptimeYear": "98.86%",
     "time": 862,
-    "timeDay": 1031,
-    "timeWeek": 730,
+    "timeDay": 1044,
+    "timeWeek": 728,
     "timeMonth": 772,
     "timeYear": 862,
     "dailyMinutesDown": {
@@ -280,7 +280,7 @@
       "2026-09-06": 355,
       "2026-09-07": 139,
       "2026-09-08": 133,
-      "2026-09-09": 87
+      "2026-09-09": 98
     }
   }
 ]
