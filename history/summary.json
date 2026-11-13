@@ -4,16 +4,16 @@
     "url": "https://file.akarin.dev/api/v4/site/ping",
     "icon": "https://icons.duckduckgo.com/ip3/file.akarin.dev.ico",
     "slug": "cloudreve",
-    "status": "down",
+    "status": "up",
     "uptime": "99.06%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.55%",
     "time": 1168,
-    "timeDay": 470,
-    "timeWeek": 546,
-    "timeMonth": 1432,
+    "timeDay": 685,
+    "timeWeek": 609,
+    "timeMonth": 1422,
     "timeYear": 1041,
     "dailyMinutesDown": {
       "2025-11-14": 491,
@@ -29,7 +29,7 @@
       "2026-07-11": 22,
       "2026-07-20": 87,
       "2026-07-19": 395,
-      "2026-11-13": 0
+      "2026-11-13": 5
     }
   },
   {
@@ -162,7 +162,7 @@
     "slug": "qsticker-archive",
     "status": "up",
     "uptime": "98.55%",
-    "uptimeDay": "46.07%",
+    "uptimeDay": "46.42%",
     "uptimeWeek": "85.94%",
     "uptimeMonth": "95.22%",
     "uptimeYear": "98.38%",
