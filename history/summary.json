@@ -158,19 +158,19 @@
     "url": "https://qsticker.akarin.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/qsticker.akarin.dev.ico",
     "slug": "qsticker-archive",
-    "status": "up",
+    "status": "down",
     "uptime": "98.58%",
-    "uptimeDay": "92.22%",
+    "uptimeDay": "92.17%",
     "uptimeWeek": "84.82%",
     "uptimeMonth": "94.96%",
-    "uptimeYear": "98.40%",
+    "uptimeYear": "98.41%",
     "time": 1126,
-    "timeDay": 1497,
-    "timeWeek": 1297,
-    "timeMonth": 1038,
-    "timeYear": 1092,
+    "timeDay": 1434,
+    "timeWeek": 1263,
+    "timeMonth": 1029,
+    "timeYear": 1091,
     "dailyMinutesDown": {
-      "2026-09-03": 186,
+      "2026-09-03": 165,
       "2026-09-04": 254,
       "2026-09-05": 232,
       "2026-09-06": 340,
@@ -206,7 +206,7 @@
       "2026-11-11": 26,
       "2026-11-13": 277,
       "2026-11-12": 1115,
-      "2026-11-16": 112
+      "2026-11-16": 113
     }
   },
   {
@@ -214,19 +214,19 @@
     "url": "https://fuwafuwa.akarin.dev/__dufs__/health",
     "icon": "https://icons.duckduckgo.com/ip3/fuwafuwa.akarin.dev.ico",
     "slug": "dufs-file-sharing",
-    "status": "up",
-    "uptime": "98.82%",
-    "uptimeDay": "96.07%",
-    "uptimeWeek": "99.44%",
+    "status": "down",
+    "uptime": "98.83%",
+    "uptimeDay": "96.03%",
+    "uptimeWeek": "99.43%",
     "uptimeMonth": "98.40%",
-    "uptimeYear": "98.67%",
+    "uptimeYear": "98.69%",
     "time": 911,
-    "timeDay": 777,
-    "timeWeek": 1155,
-    "timeMonth": 1022,
-    "timeYear": 906,
+    "timeDay": 758,
+    "timeWeek": 1134,
+    "timeMonth": 1016,
+    "timeYear": 905,
     "dailyMinutesDown": {
-      "2026-09-01": 111,
+      "2026-09-01": 53,
       "2026-09-02": 331,
       "2026-09-03": 304,
       "2026-09-04": 249,
@@ -259,7 +259,7 @@
       "2026-10-29": 345,
       "2026-10-30": 21,
       "2026-11-04": 19,
-      "2026-11-16": 57
+      "2026-11-16": 58
     }
   }
 ]
