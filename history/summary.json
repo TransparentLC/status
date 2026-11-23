@@ -147,16 +147,16 @@
     "url": "https://qsticker.akarin.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/qsticker.akarin.dev.ico",
     "slug": "qsticker-archive",
-    "status": "down",
+    "status": "up",
     "uptime": "98.57%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "97.00%",
-    "uptimeMonth": "94.86%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "96.94%",
+    "uptimeMonth": "94.85%",
     "uptimeYear": "98.37%",
     "time": 1087,
-    "timeDay": 728,
-    "timeWeek": 799,
-    "timeMonth": 1050,
+    "timeDay": 757,
+    "timeWeek": 803,
+    "timeMonth": 1049,
     "timeYear": 1082,
     "dailyMinutesDown": {
       "2026-09-03": 64,
@@ -197,7 +197,7 @@
       "2026-11-12": 1115,
       "2026-11-16": 112,
       "2026-11-19": 302,
-      "2026-11-23": 1
+      "2026-11-23": 6
     }
   },
   {
