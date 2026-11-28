@@ -196,16 +196,16 @@
     "url": "https://fuwafuwa.akarin.dev/__dufs__/health",
     "icon": "https://icons.duckduckgo.com/ip3/fuwafuwa.akarin.dev.ico",
     "slug": "dufs-file-sharing",
-    "status": "down",
+    "status": "up",
     "uptime": "98.80%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "95.98%",
-    "uptimeMonth": "98.07%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "95.97%",
+    "uptimeMonth": "98.06%",
     "uptimeYear": "98.62%",
     "time": 932,
-    "timeDay": 939,
-    "timeWeek": 4097,
-    "timeMonth": 1643,
+    "timeDay": 892,
+    "timeWeek": 3955,
+    "timeMonth": 1635,
     "timeYear": 949,
     "dailyMinutesDown": {
       "2026-09-02": 331,
@@ -244,7 +244,7 @@
       "2026-11-25": 31,
       "2026-11-27": 115,
       "2026-11-26": 259,
-      "2026-11-28": 1
+      "2026-11-28": 2
     }
   }
 ]
